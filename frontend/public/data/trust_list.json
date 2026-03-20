@@ -1,0 +1,1274 @@
+[
+  {
+    "trust_code": "REM",
+    "trust_name": "Aintree University Hospital NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.4667,
+    "lng": -2.95,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWX",
+    "trust_name": "Aintree University Hospital NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.4667,
+    "lng": -2.95,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RCF",
+    "trust_name": "Airedale NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.9006,
+    "lng": -1.9302,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RBS",
+    "trust_name": "Alder Hey Children'S NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.1881,
+    "lng": -2.3988,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RTK",
+    "trust_name": "Ashford and St Peter's Hospitals NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.3853,
+    "lng": -0.523,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "NL7",
+    "trust_name": "Assura Vertis Urgent Care Centres (Birmingham)",
+    "region": "Midlands",
+    "lat": 52.9617,
+    "lng": -2.3005,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RF4",
+    "trust_name": "Barking, Havering and Redbridge University Hospitals NHS Trust",
+    "region": "London",
+    "lat": 51.4234,
+    "lng": -0.298,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RKE",
+    "trust_name": "Barnet and Chase Farm Hospitals NHS Trust",
+    "region": "London",
+    "lat": 51.6517,
+    "lng": -0.1903,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RFF",
+    "trust_name": "Barnsley Hospital NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.5521,
+    "lng": -1.4802,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "R1H",
+    "trust_name": "Barts Health NHS Trust (Royal London)",
+    "region": "London",
+    "lat": 51.5203,
+    "lng": -0.0598,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RQ3",
+    "trust_name": "Birmingham Women'S and Children'S NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.8568,
+    "lng": -1.4436,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RXL",
+    "trust_name": "Blackpool Teaching Hospitals NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.8256,
+    "lng": -3.027,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RMC",
+    "trust_name": "Bolton NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.5769,
+    "lng": -2.4282,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RAE",
+    "trust_name": "Bradford Teaching Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.796,
+    "lng": -1.7594,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RY2",
+    "trust_name": "Bridgewater Community Healthcare NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.3989,
+    "lng": -2.2712,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXH",
+    "trust_name": "Brighton and Sussex University Hospitals NHS Trust",
+    "region": "South East",
+    "lat": 50.832,
+    "lng": -0.1378,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RXQ",
+    "trust_name": "Buckinghamshire Healthcare NHS Trust",
+    "region": "South East",
+    "lat": 51.6326,
+    "lng": -0.7486,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RWD",
+    "trust_name": "Burton Hospitals NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.8033,
+    "lng": -1.6306,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RWY",
+    "trust_name": "Calderdale and Huddersfield NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.725,
+    "lng": -1.8624,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RGT",
+    "trust_name": "Cambridge University Hospitals NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.1752,
+    "lng": 0.1401,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RYX",
+    "trust_name": "Central London Community Healthcare NHS Trust",
+    "region": "London",
+    "lat": 51.52,
+    "lng": -0.21,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RQM",
+    "trust_name": "Chelsea and Westminster Hospital NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.4839,
+    "lng": -0.1812,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RJR",
+    "trust_name": "Chesterfield Royal Hospital NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 53.2333,
+    "lng": -1.4167,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RDE",
+    "trust_name": "Colchester Hospital University NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 51.9,
+    "lng": 0.9031,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXP",
+    "trust_name": "County Durham and Darlington NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.7761,
+    "lng": -1.5754,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJ6",
+    "trust_name": "Croydon Health Services NHS Trust",
+    "region": "London",
+    "lat": 51.3762,
+    "lng": -0.1061,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RN7",
+    "trust_name": "Dartford and Gravesham NHS Trust",
+    "region": "South East",
+    "lat": 51.4471,
+    "lng": 0.2133,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTG",
+    "trust_name": "Derby Teaching Hospitals NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.9149,
+    "lng": -1.4766,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RY8",
+    "trust_name": "Derbyshire Community Health Services NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.5314,
+    "lng": -1.8582,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "NNJ",
+    "trust_name": "Dhu Health Care C.I.C",
+    "region": "Midlands",
+    "lat": 52.1603,
+    "lng": -2.3851,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNN",
+    "trust_name": "Doncaster and Bassetlaw NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.5194,
+    "lng": -1.1272,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RFS",
+    "trust_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.5194,
+    "lng": -1.1272,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RP5",
+    "trust_name": "Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.7042,
+    "lng": -1.5597,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RBD",
+    "trust_name": "Dorset County Hospital NHS Foundation Trust",
+    "region": "South West",
+    "lat": 50.7169,
+    "lng": -2.438,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJN",
+    "trust_name": "East Cheshire NHS Trust",
+    "region": "North West",
+    "lat": 53.2578,
+    "lng": -2.4058,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RVV",
+    "trust_name": "East Kent Hospitals University NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.2802,
+    "lng": 1.0789,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXR",
+    "trust_name": "East Lancashire Hospitals NHS Trust",
+    "region": "North West",
+    "lat": 53.7479,
+    "lng": -2.4817,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXC",
+    "trust_name": "East Sussex Healthcare NHS Trust",
+    "region": "South East",
+    "lat": 50.8667,
+    "lng": 0.25,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RWH",
+    "trust_name": "East and North Hertfordshire NHS Trust",
+    "region": "East of England",
+    "lat": 51.7954,
+    "lng": -0.2028,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RVR",
+    "trust_name": "Epsom and St Helier University Hospitals NHS Trust",
+    "region": "London",
+    "lat": 51.3333,
+    "lng": -0.2667,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "NDJ",
+    "trust_name": "First Community Health and Care Cic",
+    "region": "South East",
+    "lat": 51.1484,
+    "lng": -0.322,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RDU",
+    "trust_name": "Frimley Health NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.3167,
+    "lng": -0.7333,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTD",
+    "trust_name": "Gateshead Health NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.96,
+    "lng": -1.6003,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RK5",
+    "trust_name": "George Eliot Hospital NHS Trust",
+    "region": "Midlands",
+    "lat": 52.5121,
+    "lng": -1.4639,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RLT",
+    "trust_name": "George Eliot Hospital NHS Trust",
+    "region": "Midlands",
+    "lat": 52.5121,
+    "lng": -1.4639,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTQ",
+    "trust_name": "Gloucestershire Health and Care NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.5411,
+    "lng": -2.7699,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTE",
+    "trust_name": "Gloucestershire Hospitals NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.8642,
+    "lng": -2.2381,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RN3",
+    "trust_name": "Great Western Hospitals NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.5658,
+    "lng": -1.787,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJ1",
+    "trust_name": "Guy's and St Thomas' NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.4988,
+    "lng": -0.1185,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RN5",
+    "trust_name": "Hampshire Hospitals NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.219,
+    "lng": -0.5225,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RCD",
+    "trust_name": "Harrogate and District NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.9925,
+    "lng": -1.5388,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RY4",
+    "trust_name": "Hertfordshire Community NHS Trust",
+    "region": "East of England",
+    "lat": 52.0315,
+    "lng": 0.2585,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RQX",
+    "trust_name": "Homerton University Hospital NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.5475,
+    "lng": -0.0435,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RY9",
+    "trust_name": "Hounslow and Richmond Community Healthcare NHS Trust",
+    "region": "London",
+    "lat": 51.0621,
+    "lng": 0.3316,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RR7",
+    "trust_name": "Hull University Teaching Hospitals NHS Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.7456,
+    "lng": -0.3459,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWA",
+    "trust_name": "Hull and East Yorkshire Hospitals NHS Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.7456,
+    "lng": -0.3459,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RV9",
+    "trust_name": "Humber Teaching NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.3841,
+    "lng": -1.2659,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RYJ",
+    "trust_name": "Imperial College Healthcare NHS Trust",
+    "region": "London",
+    "lat": 51.5127,
+    "lng": -0.1757,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "R1F",
+    "trust_name": "Isle of Wight NHS Trust",
+    "region": "South East",
+    "lat": 50.6938,
+    "lng": -1.3031,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RGP",
+    "trust_name": "James Paget University Hospitals NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.5986,
+    "lng": 1.7289,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RYY",
+    "trust_name": "Kent Community Health NHS Foundation Trust",
+    "region": "South East",
+    "lat": 50.8589,
+    "lng": -0.7101,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNQ",
+    "trust_name": "Kettering General Hospital NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.4,
+    "lng": -0.7167,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJZ",
+    "trust_name": "King's College Hospital NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.4699,
+    "lng": -0.0939,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RAX",
+    "trust_name": "Kingston Hospital NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.4109,
+    "lng": -0.2822,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXN",
+    "trust_name": "Lancashire Teaching Hospitals NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.7627,
+    "lng": -2.6894,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RR8",
+    "trust_name": "Leeds Teaching Hospitals NHS Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.8088,
+    "lng": -1.5558,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RJ2",
+    "trust_name": "Lewisham Healthcare NHS Trust",
+    "region": "London",
+    "lat": 51.4563,
+    "lng": -0.0144,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RY5",
+    "trust_name": "Lincolnshire Community Health Services NHS Trust",
+    "region": "Midlands",
+    "lat": 52.9123,
+    "lng": -2.2073,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "R1K",
+    "trust_name": "London North West University Healthcare NHS Trust",
+    "region": "London",
+    "lat": 51.5365,
+    "lng": -0.2861,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWF",
+    "trust_name": "Maidstone and Tunbridge Wells NHS Trust",
+    "region": "South East",
+    "lat": 51.2722,
+    "lng": 0.525,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "R0A",
+    "trust_name": "Manchester University NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.5208,
+    "lng": -2.5791,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RPA",
+    "trust_name": "Medway NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.4,
+    "lng": 0.55,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RW4",
+    "trust_name": "Mersey Care NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.3904,
+    "lng": -2.6404,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RBT",
+    "trust_name": "Mid Cheshire Hospitals NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.1905,
+    "lng": -2.5292,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXF",
+    "trust_name": "Mid Yorkshire Hospitals NHS Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.6887,
+    "lng": -1.5019,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RD8",
+    "trust_name": "Milton Keynes Hospital NHS Foundation Trust",
+    "region": "South East",
+    "lat": 52.0384,
+    "lng": -0.7597,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNU",
+    "trust_name": "Milton Keynes University Hospital NHS Foundation Trust",
+    "region": "South East",
+    "lat": 52.0384,
+    "lng": -0.7597,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RM1",
+    "trust_name": "Norfolk and Norwich University Hospitals NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.6215,
+    "lng": 1.2574,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RVJ",
+    "trust_name": "North Bristol NHS Trust",
+    "region": "South West",
+    "lat": 51.4959,
+    "lng": -2.5877,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RM3",
+    "trust_name": "North East Essex NHS Trust",
+    "region": "East of England",
+    "lat": 51.89,
+    "lng": 0.8997,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RAT",
+    "trust_name": "North East London NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.5333,
+    "lng": -0.1048,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTV",
+    "trust_name": "North West Boroughs Healthcare NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.0728,
+    "lng": -2.1895,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNS",
+    "trust_name": "Northampton General Hospital NHS Trust",
+    "region": "Midlands",
+    "lat": 52.24,
+    "lng": -0.8833,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RBZ",
+    "trust_name": "Northern Devon Healthcare NHS Trust",
+    "region": "South West",
+    "lat": 51.0615,
+    "lng": -4.0588,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJL",
+    "trust_name": "Northern Lincolnshire and Goole NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.5654,
+    "lng": -0.6627,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTF",
+    "trust_name": "Northumbria Healthcare NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 55.1304,
+    "lng": -1.5811,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "NR3",
+    "trust_name": "Nottingham Citycare Partnership",
+    "region": "Midlands",
+    "lat": 52.9217,
+    "lng": -2.3655,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RX1",
+    "trust_name": "Nottingham University Hospitals NHS Trust",
+    "region": "Midlands",
+    "lat": 52.9508,
+    "lng": -1.179,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RTH",
+    "trust_name": "Oxford University Hospitals NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.7634,
+    "lng": -1.2196,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RW6",
+    "trust_name": "Pennine Acute Hospitals NHS Trust",
+    "region": "North West",
+    "lat": 53.55,
+    "lng": -2.1167,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RGN",
+    "trust_name": "Peterborough and Stamford Hospitals NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.584,
+    "lng": -0.2402,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RHU",
+    "trust_name": "Portsmouth Hospitals University NHS Trust",
+    "region": "South East",
+    "lat": 50.8566,
+    "lng": -1.0761,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RPC",
+    "trust_name": "Queen Alexandra Hospital Portsmouth",
+    "region": "South East",
+    "lat": 50.8566,
+    "lng": -1.0761,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RCX",
+    "trust_name": "Queen Elizabeth Hospital King's Lynn NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.7537,
+    "lng": 0.4081,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RHW",
+    "trust_name": "Royal Berkshire NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.4546,
+    "lng": -0.9785,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "REF",
+    "trust_name": "Royal Cornwall Hospitals NHS Trust",
+    "region": "South West",
+    "lat": 50.2653,
+    "lng": -5.0569,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RH8",
+    "trust_name": "Royal Devon University Healthcare NHS Foundation Trust",
+    "region": "South West",
+    "lat": 50.7236,
+    "lng": -3.5156,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RAL",
+    "trust_name": "Royal Free London NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.5527,
+    "lng": -0.1664,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "REP",
+    "trust_name": "Royal Liverpool University Hospital",
+    "region": "North West",
+    "lat": 53.4083,
+    "lng": -2.9683,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RA2",
+    "trust_name": "Royal Surrey County Hospital NHS Foundation Trust",
+    "region": "South East",
+    "lat": 50.9655,
+    "lng": -0.919,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RDR",
+    "trust_name": "Royal Sussex County Hospital",
+    "region": "South East",
+    "lat": 50.832,
+    "lng": -0.1378,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RD1",
+    "trust_name": "Royal United Hospitals Bath NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.3906,
+    "lng": -2.3874,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNZ",
+    "trust_name": "Salisbury District Hospital",
+    "region": "South West",
+    "lat": 51.073,
+    "lng": -1.7944,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RXK",
+    "trust_name": "Sandwell and West Birmingham Hospitals NHS Trust",
+    "region": "Midlands",
+    "lat": 52.5019,
+    "lng": -1.9947,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RHQ",
+    "trust_name": "Sheffield Teaching Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.3811,
+    "lng": -1.4701,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RP6",
+    "trust_name": "Shrewsbury and Telford Hospital NHS Trust",
+    "region": "Midlands",
+    "lat": 52.7036,
+    "lng": -2.4757,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "R1D",
+    "trust_name": "Shropshire Community Health NHS Trust",
+    "region": "Midlands",
+    "lat": 52.4912,
+    "lng": -2.2588,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "NLX",
+    "trust_name": "Sirona Care & Health",
+    "region": "South West",
+    "lat": 51.0366,
+    "lng": -2.4548,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RH5",
+    "trust_name": "Somerset NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.231,
+    "lng": -2.5588,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RCU",
+    "trust_name": "South Tees Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.578,
+    "lng": -1.212,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RVW",
+    "trust_name": "South Tyneside and Sunderland NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.9069,
+    "lng": -1.3788,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "R0B",
+    "trust_name": "South Tyneside and Sunderland NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.7619,
+    "lng": -0.7804,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJC",
+    "trust_name": "South Warwickshire NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.2855,
+    "lng": -1.5919,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RYF",
+    "trust_name": "South Western Ambulance Service NHS Foundation Trust",
+    "region": "South West",
+    "lat": 50.955,
+    "lng": -3.0618,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RAJ",
+    "trust_name": "Southend University Hospital NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 51.5604,
+    "lng": 0.6927,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RW1",
+    "trust_name": "Southern Health NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.619,
+    "lng": -0.6076,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RVY",
+    "trust_name": "Southport and Ormskirk Hospital NHS Trust",
+    "region": "North West",
+    "lat": 53.6381,
+    "lng": -2.9764,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJ7",
+    "trust_name": "St George's University Hospitals NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.4276,
+    "lng": -0.1742,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RBN",
+    "trust_name": "St Helens and Knowsley Teaching Hospitals NHS Trust",
+    "region": "North West",
+    "lat": 53.4567,
+    "lng": -2.735,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWJ",
+    "trust_name": "Stockport NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.4059,
+    "lng": -2.1589,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTP",
+    "trust_name": "Surrey and Borders Partnership NHS Foundation Trust",
+    "region": "South East",
+    "lat": 51.2362,
+    "lng": -0.575,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RMP",
+    "trust_name": "Tameside and Glossop Integrated Care NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.487,
+    "lng": -2.0817,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "AAH",
+    "trust_name": "Tetbury Hospital Trust Ltd",
+    "region": "South West",
+    "lat": 51.5869,
+    "lng": -2.8934,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RNA",
+    "trust_name": "The Dudley Group NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.5024,
+    "lng": -2.1003,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RAS",
+    "trust_name": "The Hillingdon Hospitals NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.5133,
+    "lng": -0.4769,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RTR",
+    "trust_name": "The Newcastle upon Tyne Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.9933,
+    "lng": -1.6215,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RQW",
+    "trust_name": "The Princess Alexandra Hospital NHS Trust",
+    "region": "East of England",
+    "lat": 51.778,
+    "lng": 0.0914,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RFR",
+    "trust_name": "The Rotherham NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 54.2619,
+    "lng": -1.0436,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RDZ",
+    "trust_name": "The Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust",
+    "region": "South West",
+    "lat": 50.7356,
+    "lng": -1.8306,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RL4",
+    "trust_name": "The Royal Wolverhampton NHS Trust",
+    "region": "Midlands",
+    "lat": 52.5894,
+    "lng": -2.12,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RXW",
+    "trust_name": "The Shrewsbury and Telford Hospital NHS Trust",
+    "region": "Midlands",
+    "lat": 52.7036,
+    "lng": -2.4757,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RA9",
+    "trust_name": "Torbay and South Devon NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.1283,
+    "lng": -2.2349,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RRV",
+    "trust_name": "University College London Hospitals NHS Foundation Trust",
+    "region": "London",
+    "lat": 51.0964,
+    "lng": 0.0234,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RHM",
+    "trust_name": "University Hospital Southampton NHS Foundation Trust",
+    "region": "South East",
+    "lat": 50.9337,
+    "lng": -1.4358,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RRK",
+    "trust_name": "University Hospitals Birmingham NHS Foundation Trust",
+    "region": "Midlands",
+    "lat": 52.452,
+    "lng": -1.9435,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RA7",
+    "trust_name": "University Hospitals Bristol and Weston NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.458,
+    "lng": -2.5965,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RKB",
+    "trust_name": "University Hospitals Coventry and Warwickshire NHS Trust",
+    "region": "Midlands",
+    "lat": 52.4194,
+    "lng": -1.4949,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "R0D",
+    "trust_name": "University Hospitals Dorset NHS Foundation Trust",
+    "region": "South West",
+    "lat": 51.4722,
+    "lng": -2.2115,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RK9",
+    "trust_name": "University Hospitals Plymouth NHS Trust",
+    "region": "South West",
+    "lat": 50.3714,
+    "lng": -4.123,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWE",
+    "trust_name": "University Hospitals of Leicester NHS Trust",
+    "region": "Midlands",
+    "lat": 52.6219,
+    "lng": -1.129,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RTX",
+    "trust_name": "University Hospitals of Morecambe Bay NHS Foundation Trust",
+    "region": "North West",
+    "lat": 54.1333,
+    "lng": -2.7833,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RJE",
+    "trust_name": "University Hospitals of North Midlands NHS Trust",
+    "region": "Midlands",
+    "lat": 52.9936,
+    "lng": -2.1218,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RBK",
+    "trust_name": "Walsall Healthcare NHS Trust",
+    "region": "Midlands",
+    "lat": 52.5869,
+    "lng": -1.9831,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RA4",
+    "trust_name": "Warrington and Halton Teaching Hospitals NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.39,
+    "lng": -2.5967,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWW",
+    "trust_name": "Warrington and Halton Teaching Hospitals NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.5878,
+    "lng": -2.3245,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWG",
+    "trust_name": "West Hertfordshire Hospitals NHS Trust",
+    "region": "East of England",
+    "lat": 51.6575,
+    "lng": -0.3964,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RC9",
+    "trust_name": "West Suffolk NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.2519,
+    "lng": 0.7201,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RGR",
+    "trust_name": "West Suffolk NHS Foundation Trust",
+    "region": "East of England",
+    "lat": 52.2519,
+    "lng": 0.7201,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RYR",
+    "trust_name": "Western Sussex Hospitals NHS Foundation Trust",
+    "region": "South East",
+    "lat": 50.8478,
+    "lng": -0.7792,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RAP",
+    "trust_name": "Whittington Health NHS Trust",
+    "region": "London",
+    "lat": 51.565,
+    "lng": -0.1358,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "AXG",
+    "trust_name": "Wiltshire Health & Care",
+    "region": "South West",
+    "lat": 51.059,
+    "lng": -2.2661,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RY7",
+    "trust_name": "Wirral Community Health and Care NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.2774,
+    "lng": -2.6846,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RBL",
+    "trust_name": "Wirral University Teaching Hospital NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.3731,
+    "lng": -3.0277,
+    "is_teaching": true
+  },
+  {
+    "trust_code": "RWP",
+    "trust_name": "Worcestershire Acute Hospitals NHS Trust",
+    "region": "Midlands",
+    "lat": 52.1913,
+    "lng": -2.2258,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "AJN",
+    "trust_name": "Workington Health Limited",
+    "region": "North East and Yorkshire",
+    "lat": 53.4921,
+    "lng": -1.5462,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RRF",
+    "trust_name": "Wrightington, Wigan and Leigh NHS Foundation Trust",
+    "region": "North West",
+    "lat": 53.5449,
+    "lng": -2.6312,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RLQ",
+    "trust_name": "Wye Valley NHS Trust",
+    "region": "Midlands",
+    "lat": 52.055,
+    "lng": -2.71,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RD3",
+    "trust_name": "Yeovil District Hospital NHS Foundation Trust",
+    "region": "South West",
+    "lat": 50.945,
+    "lng": -2.644,
+    "is_teaching": false
+  },
+  {
+    "trust_code": "RCB",
+    "trust_name": "York and Scarborough Teaching Hospitals NHS Foundation Trust",
+    "region": "North East and Yorkshire",
+    "lat": 53.9615,
+    "lng": -1.0739,
+    "is_teaching": true
+  }
+]

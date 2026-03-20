@@ -1,0 +1,1649 @@
+{
+  "trust_code": "RVY",
+  "trust_name": "Southport and Ormskirk Hospital NHS Trust",
+  "region": "North West",
+  "lat": 53.6381,
+  "lng": -2.9764,
+  "imd_score": 25,
+  "is_teaching": false,
+  "scorecard": {
+    "avg_wait_minutes": 156,
+    "breach_rate_pct": 20.1,
+    "busiest_month": "March",
+    "busiest_day": "Monday",
+    "total_annual_attendances": 59692,
+    "national_rank": 60,
+    "national_total": 159,
+    "vs_national_avg_pct": -1.3
+  },
+  "monthly_data": [
+    {
+      "year": 2020,
+      "month": 4,
+      "attendances": 4309,
+      "breach_rate": 7.2,
+      "avg_temp": 10.0,
+      "flu_rate": 0.3
+    },
+    {
+      "year": 2020,
+      "month": 5,
+      "attendances": 6028,
+      "breach_rate": 4.2,
+      "avg_temp": 11.4,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2020,
+      "month": 6,
+      "attendances": 7515,
+      "breach_rate": 4.2,
+      "avg_temp": 14.1,
+      "flu_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "attendances": 8251,
+      "breach_rate": 6.7,
+      "avg_temp": 16.4,
+      "flu_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "attendances": 8861,
+      "breach_rate": 11.0,
+      "avg_temp": 14.5,
+      "flu_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "attendances": 8692,
+      "breach_rate": 9.8,
+      "avg_temp": 14.4,
+      "flu_rate": 0.0
+    },
+    {
+      "year": 2020,
+      "month": 10,
+      "attendances": 7818,
+      "breach_rate": 19.2,
+      "avg_temp": 10.1,
+      "flu_rate": 0.2
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "attendances": 7631,
+      "breach_rate": 17.2,
+      "avg_temp": 6.6,
+      "flu_rate": 0.7
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "attendances": 7525,
+      "breach_rate": 18.3,
+      "avg_temp": 4.8,
+      "flu_rate": 1.0
+    },
+    {
+      "year": 2021,
+      "month": 1,
+      "attendances": 6665,
+      "breach_rate": 21.8,
+      "avg_temp": 4.3,
+      "flu_rate": 2.1
+    },
+    {
+      "year": 2021,
+      "month": 2,
+      "attendances": 6381,
+      "breach_rate": 16.7,
+      "avg_temp": 4.3,
+      "flu_rate": 1.5
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "attendances": 8662,
+      "breach_rate": 13.0,
+      "avg_temp": 5.0,
+      "flu_rate": 1.1
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "attendances": 8907,
+      "breach_rate": 16.1,
+      "avg_temp": 8.2,
+      "flu_rate": 0.3
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "attendances": 10271,
+      "breach_rate": 19.1,
+      "avg_temp": 11.5,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "attendances": 9676,
+      "breach_rate": 18.5,
+      "avg_temp": 16.2,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "attendances": 10181,
+      "breach_rate": 22.8,
+      "avg_temp": 16.3,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "attendances": 9147,
+      "breach_rate": 22.8,
+      "avg_temp": 15.0,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "attendances": 9920,
+      "breach_rate": 22.2,
+      "avg_temp": 11.7,
+      "flu_rate": 0.6
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "attendances": 10501,
+      "breach_rate": 22.9,
+      "avg_temp": 10.2,
+      "flu_rate": 1.9
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "attendances": 9982,
+      "breach_rate": 21.3,
+      "avg_temp": 5.4,
+      "flu_rate": 3.5
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "attendances": 8746,
+      "breach_rate": 22.2,
+      "avg_temp": 3.1,
+      "flu_rate": 9.1
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "attendances": 8474,
+      "breach_rate": 24.6,
+      "avg_temp": 3.3,
+      "flu_rate": 12.8
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "attendances": 8578,
+      "breach_rate": 25.1,
+      "avg_temp": 4.0,
+      "flu_rate": 10.7
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "attendances": 10494,
+      "breach_rate": 25.8,
+      "avg_temp": 5.0,
+      "flu_rate": 5.2
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "attendances": 11784,
+      "breach_rate": 19.5,
+      "avg_temp": 9.5,
+      "flu_rate": 2.4
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "attendances": 10867,
+      "breach_rate": 23.1,
+      "avg_temp": 11.3,
+      "flu_rate": 0.4
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "attendances": 10442,
+      "breach_rate": 22.4,
+      "avg_temp": 12.7,
+      "flu_rate": 0.2
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "attendances": 10689,
+      "breach_rate": 26.2,
+      "avg_temp": 16.9,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "attendances": 9743,
+      "breach_rate": 26.5,
+      "avg_temp": 14.6,
+      "flu_rate": 0.1
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "attendances": 9647,
+      "breach_rate": 27.7,
+      "avg_temp": 13.3,
+      "flu_rate": 0.6
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "attendances": 10257,
+      "breach_rate": 26.7,
+      "avg_temp": 10.2,
+      "flu_rate": 3.0
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "attendances": 10516,
+      "breach_rate": 26.0,
+      "avg_temp": 5.8,
+      "flu_rate": 8.0
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "attendances": 11443,
+      "breach_rate": 29.3,
+      "avg_temp": 6.5,
+      "flu_rate": 16.1
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "attendances": 9471,
+      "breach_rate": 24.1,
+      "avg_temp": 1.4,
+      "flu_rate": 16.7
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "attendances": 8955,
+      "breach_rate": 25.2,
+      "avg_temp": 4.4,
+      "flu_rate": 6.7
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "attendances": 10279,
+      "breach_rate": 26.4,
+      "avg_temp": 7.2,
+      "flu_rate": 8.6
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "attendances": 9869,
+      "breach_rate": 22.1,
+      "avg_temp": 8.1,
+      "flu_rate": 2.0
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "attendances": 10637,
+      "breach_rate": 24.5,
+      "avg_temp": 12.8,
+      "flu_rate": 0.5
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "attendances": 10481,
+      "breach_rate": 22.6,
+      "avg_temp": 12.7,
+      "flu_rate": 0.3
+    }
+  ],
+  "compliance_trend": [
+    {
+      "year": 2020,
+      "month": 4,
+      "compliance_pct": 92.8,
+      "national_avg": 92.9
+    },
+    {
+      "year": 2020,
+      "month": 5,
+      "compliance_pct": 95.8,
+      "national_avg": 95.0
+    },
+    {
+      "year": 2020,
+      "month": 6,
+      "compliance_pct": 95.8,
+      "national_avg": 94.4
+    },
+    {
+      "year": 2020,
+      "month": 7,
+      "compliance_pct": 93.3,
+      "national_avg": 93.8
+    },
+    {
+      "year": 2020,
+      "month": 8,
+      "compliance_pct": 89.0,
+      "national_avg": 91.4
+    },
+    {
+      "year": 2020,
+      "month": 9,
+      "compliance_pct": 90.2,
+      "national_avg": 89.9
+    },
+    {
+      "year": 2020,
+      "month": 10,
+      "compliance_pct": 80.8,
+      "national_avg": 87.9
+    },
+    {
+      "year": 2020,
+      "month": 11,
+      "compliance_pct": 82.8,
+      "national_avg": 87.4
+    },
+    {
+      "year": 2020,
+      "month": 12,
+      "compliance_pct": 81.7,
+      "national_avg": 84.6
+    },
+    {
+      "year": 2021,
+      "month": 1,
+      "compliance_pct": 78.2,
+      "national_avg": 83.4
+    },
+    {
+      "year": 2021,
+      "month": 2,
+      "compliance_pct": 83.3,
+      "national_avg": 87.4
+    },
+    {
+      "year": 2021,
+      "month": 3,
+      "compliance_pct": 87.0,
+      "national_avg": 89.1
+    },
+    {
+      "year": 2021,
+      "month": 4,
+      "compliance_pct": 83.9,
+      "national_avg": 88.3
+    },
+    {
+      "year": 2021,
+      "month": 5,
+      "compliance_pct": 80.9,
+      "national_avg": 86.9
+    },
+    {
+      "year": 2021,
+      "month": 6,
+      "compliance_pct": 81.5,
+      "national_avg": 84.9
+    },
+    {
+      "year": 2021,
+      "month": 7,
+      "compliance_pct": 77.2,
+      "national_avg": 81.7
+    },
+    {
+      "year": 2021,
+      "month": 8,
+      "compliance_pct": 77.2,
+      "national_avg": 81.1
+    },
+    {
+      "year": 2021,
+      "month": 9,
+      "compliance_pct": 77.8,
+      "national_avg": 79.6
+    },
+    {
+      "year": 2021,
+      "month": 10,
+      "compliance_pct": 77.1,
+      "national_avg": 78.5
+    },
+    {
+      "year": 2021,
+      "month": 11,
+      "compliance_pct": 78.7,
+      "national_avg": 78.7
+    },
+    {
+      "year": 2021,
+      "month": 12,
+      "compliance_pct": 77.8,
+      "national_avg": 78.2
+    },
+    {
+      "year": 2022,
+      "month": 1,
+      "compliance_pct": 75.4,
+      "national_avg": 79.1
+    },
+    {
+      "year": 2022,
+      "month": 2,
+      "compliance_pct": 74.9,
+      "national_avg": 78.1
+    },
+    {
+      "year": 2022,
+      "month": 3,
+      "compliance_pct": 74.2,
+      "national_avg": 76.6
+    },
+    {
+      "year": 2022,
+      "month": 4,
+      "compliance_pct": 80.5,
+      "national_avg": 76.7
+    },
+    {
+      "year": 2022,
+      "month": 5,
+      "compliance_pct": 76.9,
+      "national_avg": 77.5
+    },
+    {
+      "year": 2022,
+      "month": 6,
+      "compliance_pct": 77.6,
+      "national_avg": 76.7
+    },
+    {
+      "year": 2022,
+      "month": 7,
+      "compliance_pct": 73.8,
+      "national_avg": 75.7
+    },
+    {
+      "year": 2022,
+      "month": 8,
+      "compliance_pct": 73.5,
+      "national_avg": 76.2
+    },
+    {
+      "year": 2022,
+      "month": 9,
+      "compliance_pct": 72.3,
+      "national_avg": 75.8
+    },
+    {
+      "year": 2022,
+      "month": 10,
+      "compliance_pct": 73.3,
+      "national_avg": 74.5
+    },
+    {
+      "year": 2022,
+      "month": 11,
+      "compliance_pct": 74.0,
+      "national_avg": 74.0
+    },
+    {
+      "year": 2022,
+      "month": 12,
+      "compliance_pct": 70.7,
+      "national_avg": 70.2
+    },
+    {
+      "year": 2023,
+      "month": 1,
+      "compliance_pct": 75.9,
+      "national_avg": 76.6
+    },
+    {
+      "year": 2023,
+      "month": 2,
+      "compliance_pct": 74.8,
+      "national_avg": 75.8
+    },
+    {
+      "year": 2023,
+      "month": 3,
+      "compliance_pct": 73.6,
+      "national_avg": 75.9
+    },
+    {
+      "year": 2023,
+      "month": 4,
+      "compliance_pct": 77.9,
+      "national_avg": 78.5
+    },
+    {
+      "year": 2023,
+      "month": 5,
+      "compliance_pct": 75.5,
+      "national_avg": 77.9
+    },
+    {
+      "year": 2023,
+      "month": 6,
+      "compliance_pct": 77.4,
+      "national_avg": 74.9
+    }
+  ],
+  "heatmap": {
+    "rows": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "cols": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "values": [
+      [
+        302,
+        294,
+        361,
+        321,
+        348,
+        351,
+        358,
+        341,
+        347,
+        351,
+        345,
+        340
+      ],
+      [
+        291,
+        283,
+        349,
+        310,
+        336,
+        339,
+        345,
+        329,
+        335,
+        338,
+        333,
+        328
+      ],
+      [
+        283,
+        275,
+        339,
+        301,
+        326,
+        329,
+        335,
+        320,
+        325,
+        329,
+        324,
+        319
+      ],
+      [
+        278,
+        270,
+        332,
+        295,
+        320,
+        323,
+        329,
+        313,
+        319,
+        323,
+        318,
+        313
+      ],
+      [
+        270,
+        262,
+        323,
+        287,
+        311,
+        313,
+        319,
+        304,
+        310,
+        313,
+        308,
+        304
+      ],
+      [
+        237,
+        231,
+        284,
+        252,
+        274,
+        276,
+        281,
+        268,
+        273,
+        276,
+        271,
+        267
+      ],
+      [
+        227,
+        220,
+        271,
+        241,
+        261,
+        263,
+        268,
+        256,
+        260,
+        263,
+        259,
+        255
+      ]
+    ]
+  },
+  "seasonal_decomposition": {
+    "dates": [
+      "2020-04",
+      "2020-05",
+      "2020-06",
+      "2020-07",
+      "2020-08",
+      "2020-09",
+      "2020-10",
+      "2020-11",
+      "2020-12",
+      "2021-01",
+      "2021-02",
+      "2021-03",
+      "2021-04",
+      "2021-05",
+      "2021-06",
+      "2021-07",
+      "2021-08",
+      "2021-09",
+      "2021-10",
+      "2021-11",
+      "2021-12",
+      "2022-01",
+      "2022-02",
+      "2022-03",
+      "2022-04",
+      "2022-05",
+      "2022-06",
+      "2022-07",
+      "2022-08",
+      "2022-09",
+      "2022-10",
+      "2022-11",
+      "2022-12",
+      "2023-01",
+      "2023-02",
+      "2023-03",
+      "2023-04",
+      "2023-05",
+      "2023-06"
+    ],
+    "trend": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      7553.1,
+      7921.5,
+      8188.3,
+      8358.8,
+      8451.1,
+      8514.2,
+      8677.1,
+      8886.9,
+      9035.7,
+      9162.0,
+      9328.9,
+      9496.8,
+      9693.0,
+      9837.7,
+      9894.4,
+      9947.5,
+      9993.5,
+      10007.0,
+      9985.4,
+      9997.5,
+      10132.1,
+      10286.0,
+      10343.3,
+      10350.0,
+      10261.3,
+      10171.9,
+      10164.0,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "seasonal": [
+      1011.6,
+      1124.2,
+      472.4,
+      708.3,
+      -393.7,
+      -142.5,
+      353.6,
+      63.3,
+      -180.2,
+      -1586.3,
+      -1745.4,
+      314.8,
+      1011.6,
+      1124.2,
+      472.4,
+      708.3,
+      -393.7,
+      -142.5,
+      353.6,
+      63.3,
+      -180.2,
+      -1586.3,
+      -1745.4,
+      314.8,
+      1011.6,
+      1124.2,
+      472.4,
+      708.3,
+      -393.7,
+      -142.5,
+      353.6,
+      63.3,
+      -180.2,
+      -1586.3,
+      -1745.4,
+      314.8,
+      1011.6,
+      1124.2,
+      472.4
+    ],
+    "residual": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      -88.7,
+      -353.8,
+      -483.1,
+      -107.5,
+      -324.6,
+      -167.0,
+      -781.7,
+      260.0,
+      167.9,
+      310.7,
+      211.9,
+      565.8,
+      454.5,
+      81.0,
+      -968.2,
+      112.8,
+      329.9,
+      172.3,
+      787.0,
+      -254.7,
+      -162.6,
+      -305.4,
+      -206.6,
+      -560.5,
+      -357.9,
+      280.7,
+      1459.2,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ]
+  },
+  "weather_correlation": {
+    "points": [
+      {
+        "temp": 10.0,
+        "attendances": 4309
+      },
+      {
+        "temp": 11.4,
+        "attendances": 6028
+      },
+      {
+        "temp": 14.1,
+        "attendances": 7515
+      },
+      {
+        "temp": 16.4,
+        "attendances": 8251
+      },
+      {
+        "temp": 14.5,
+        "attendances": 8861
+      },
+      {
+        "temp": 14.4,
+        "attendances": 8692
+      },
+      {
+        "temp": 10.1,
+        "attendances": 7818
+      },
+      {
+        "temp": 6.6,
+        "attendances": 7631
+      },
+      {
+        "temp": 4.8,
+        "attendances": 7525
+      },
+      {
+        "temp": 4.3,
+        "attendances": 6665
+      },
+      {
+        "temp": 4.3,
+        "attendances": 6381
+      },
+      {
+        "temp": 5.0,
+        "attendances": 8662
+      },
+      {
+        "temp": 8.2,
+        "attendances": 8907
+      },
+      {
+        "temp": 11.5,
+        "attendances": 10271
+      },
+      {
+        "temp": 16.2,
+        "attendances": 9676
+      },
+      {
+        "temp": 16.3,
+        "attendances": 10181
+      },
+      {
+        "temp": 15.0,
+        "attendances": 9147
+      },
+      {
+        "temp": 11.7,
+        "attendances": 9920
+      },
+      {
+        "temp": 10.2,
+        "attendances": 10501
+      },
+      {
+        "temp": 5.4,
+        "attendances": 9982
+      },
+      {
+        "temp": 3.1,
+        "attendances": 8746
+      },
+      {
+        "temp": 3.3,
+        "attendances": 8474
+      },
+      {
+        "temp": 4.0,
+        "attendances": 8578
+      },
+      {
+        "temp": 5.0,
+        "attendances": 10494
+      },
+      {
+        "temp": 9.5,
+        "attendances": 11784
+      },
+      {
+        "temp": 11.3,
+        "attendances": 10867
+      },
+      {
+        "temp": 12.7,
+        "attendances": 10442
+      },
+      {
+        "temp": 16.9,
+        "attendances": 10689
+      },
+      {
+        "temp": 14.6,
+        "attendances": 9743
+      },
+      {
+        "temp": 13.3,
+        "attendances": 9647
+      },
+      {
+        "temp": 10.2,
+        "attendances": 10257
+      },
+      {
+        "temp": 5.8,
+        "attendances": 10516
+      },
+      {
+        "temp": 6.5,
+        "attendances": 11443
+      },
+      {
+        "temp": 1.4,
+        "attendances": 9471
+      },
+      {
+        "temp": 4.4,
+        "attendances": 8955
+      },
+      {
+        "temp": 7.2,
+        "attendances": 10279
+      },
+      {
+        "temp": 8.1,
+        "attendances": 9869
+      },
+      {
+        "temp": 12.8,
+        "attendances": 10637
+      },
+      {
+        "temp": 12.7,
+        "attendances": 10481
+      }
+    ],
+    "correlation_r": 0.177,
+    "trendline": {
+      "slope": 62.6,
+      "intercept": 8588.4
+    }
+  },
+  "bank_holiday_impact": {
+    "before": 314,
+    "during": 275,
+    "after": 320
+  },
+  "predictions_grid": {
+    "months": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "temp_buckets": [
+      -5,
+      0,
+      5,
+      10,
+      15,
+      20,
+      25,
+      30
+    ],
+    "values": {
+      "1": {
+        "-5": 8804,
+        "0": 8804,
+        "5": 8804,
+        "10": 8821,
+        "15": 8853,
+        "20": 8853,
+        "25": 8853,
+        "30": 8853
+      },
+      "2": {
+        "-5": 8784,
+        "0": 8784,
+        "5": 8784,
+        "10": 8793,
+        "15": 8825,
+        "20": 8825,
+        "25": 8825,
+        "30": 8825
+      },
+      "3": {
+        "-5": 10591,
+        "0": 10591,
+        "5": 10591,
+        "10": 10607,
+        "15": 10636,
+        "20": 10636,
+        "25": 10636,
+        "30": 10636
+      },
+      "4": {
+        "-5": 9321,
+        "0": 9321,
+        "5": 9321,
+        "10": 9337,
+        "15": 9369,
+        "20": 9369,
+        "25": 9369,
+        "30": 9369
+      },
+      "5": {
+        "-5": 9811,
+        "0": 9811,
+        "5": 9811,
+        "10": 9828,
+        "15": 9857,
+        "20": 9857,
+        "25": 9857,
+        "30": 9857
+      },
+      "6": {
+        "-5": 9645,
+        "0": 9645,
+        "5": 9645,
+        "10": 9662,
+        "15": 9691,
+        "20": 9691,
+        "25": 9691,
+        "30": 9691
+      },
+      "7": {
+        "-5": 9636,
+        "0": 9636,
+        "5": 9636,
+        "10": 9652,
+        "15": 9682,
+        "20": 9682,
+        "25": 9682,
+        "30": 9682
+      },
+      "8": {
+        "-5": 9568,
+        "0": 9568,
+        "5": 9568,
+        "10": 9584,
+        "15": 9616,
+        "20": 9616,
+        "25": 9616,
+        "30": 9616
+      },
+      "9": {
+        "-5": 9532,
+        "0": 9532,
+        "5": 9532,
+        "10": 9548,
+        "15": 9580,
+        "20": 9580,
+        "25": 9580,
+        "30": 9580
+      },
+      "10": {
+        "-5": 9584,
+        "0": 9584,
+        "5": 9584,
+        "10": 9601,
+        "15": 9630,
+        "20": 9630,
+        "25": 9630,
+        "30": 9630
+      },
+      "11": {
+        "-5": 9272,
+        "0": 9272,
+        "5": 9272,
+        "10": 9288,
+        "15": 9321,
+        "20": 9321,
+        "25": 9321,
+        "30": 9321
+      },
+      "12": {
+        "-5": 9303,
+        "0": 9303,
+        "5": 9303,
+        "10": 9320,
+        "15": 9352,
+        "20": 9352,
+        "25": 9352,
+        "30": 9352
+      }
+    },
+    "confidence_intervals": {
+      "1": {
+        "-5": {
+          "low": 7748,
+          "high": 9861
+        },
+        "0": {
+          "low": 7748,
+          "high": 9861
+        },
+        "5": {
+          "low": 7748,
+          "high": 9861
+        },
+        "10": {
+          "low": 7762,
+          "high": 9879
+        },
+        "15": {
+          "low": 7791,
+          "high": 9916
+        },
+        "20": {
+          "low": 7791,
+          "high": 9916
+        },
+        "25": {
+          "low": 7791,
+          "high": 9916
+        },
+        "30": {
+          "low": 7791,
+          "high": 9916
+        }
+      },
+      "2": {
+        "-5": {
+          "low": 7730,
+          "high": 9838
+        },
+        "0": {
+          "low": 7730,
+          "high": 9838
+        },
+        "5": {
+          "low": 7730,
+          "high": 9838
+        },
+        "10": {
+          "low": 7737,
+          "high": 9848
+        },
+        "15": {
+          "low": 7766,
+          "high": 9884
+        },
+        "20": {
+          "low": 7766,
+          "high": 9884
+        },
+        "25": {
+          "low": 7766,
+          "high": 9884
+        },
+        "30": {
+          "low": 7766,
+          "high": 9884
+        }
+      },
+      "3": {
+        "-5": {
+          "low": 9320,
+          "high": 11861
+        },
+        "0": {
+          "low": 9320,
+          "high": 11861
+        },
+        "5": {
+          "low": 9320,
+          "high": 11861
+        },
+        "10": {
+          "low": 9334,
+          "high": 11880
+        },
+        "15": {
+          "low": 9360,
+          "high": 11913
+        },
+        "20": {
+          "low": 9360,
+          "high": 11913
+        },
+        "25": {
+          "low": 9360,
+          "high": 11913
+        },
+        "30": {
+          "low": 9360,
+          "high": 11913
+        }
+      },
+      "4": {
+        "-5": {
+          "low": 8202,
+          "high": 10439
+        },
+        "0": {
+          "low": 8202,
+          "high": 10439
+        },
+        "5": {
+          "low": 8202,
+          "high": 10439
+        },
+        "10": {
+          "low": 8217,
+          "high": 10458
+        },
+        "15": {
+          "low": 8245,
+          "high": 10494
+        },
+        "20": {
+          "low": 8245,
+          "high": 10494
+        },
+        "25": {
+          "low": 8245,
+          "high": 10494
+        },
+        "30": {
+          "low": 8245,
+          "high": 10494
+        }
+      },
+      "5": {
+        "-5": {
+          "low": 8634,
+          "high": 10989
+        },
+        "0": {
+          "low": 8634,
+          "high": 10989
+        },
+        "5": {
+          "low": 8634,
+          "high": 10989
+        },
+        "10": {
+          "low": 8648,
+          "high": 11007
+        },
+        "15": {
+          "low": 8674,
+          "high": 11040
+        },
+        "20": {
+          "low": 8674,
+          "high": 11040
+        },
+        "25": {
+          "low": 8674,
+          "high": 11040
+        },
+        "30": {
+          "low": 8674,
+          "high": 11040
+        }
+      },
+      "6": {
+        "-5": {
+          "low": 8488,
+          "high": 10803
+        },
+        "0": {
+          "low": 8488,
+          "high": 10803
+        },
+        "5": {
+          "low": 8488,
+          "high": 10803
+        },
+        "10": {
+          "low": 8502,
+          "high": 10821
+        },
+        "15": {
+          "low": 8528,
+          "high": 10854
+        },
+        "20": {
+          "low": 8528,
+          "high": 10854
+        },
+        "25": {
+          "low": 8528,
+          "high": 10854
+        },
+        "30": {
+          "low": 8528,
+          "high": 10854
+        }
+      },
+      "7": {
+        "-5": {
+          "low": 8480,
+          "high": 10792
+        },
+        "0": {
+          "low": 8480,
+          "high": 10792
+        },
+        "5": {
+          "low": 8480,
+          "high": 10792
+        },
+        "10": {
+          "low": 8494,
+          "high": 10811
+        },
+        "15": {
+          "low": 8520,
+          "high": 10844
+        },
+        "20": {
+          "low": 8520,
+          "high": 10844
+        },
+        "25": {
+          "low": 8520,
+          "high": 10844
+        },
+        "30": {
+          "low": 8520,
+          "high": 10844
+        }
+      },
+      "8": {
+        "-5": {
+          "low": 8420,
+          "high": 10716
+        },
+        "0": {
+          "low": 8420,
+          "high": 10716
+        },
+        "5": {
+          "low": 8420,
+          "high": 10716
+        },
+        "10": {
+          "low": 8434,
+          "high": 10734
+        },
+        "15": {
+          "low": 8462,
+          "high": 10770
+        },
+        "20": {
+          "low": 8462,
+          "high": 10770
+        },
+        "25": {
+          "low": 8462,
+          "high": 10770
+        },
+        "30": {
+          "low": 8462,
+          "high": 10770
+        }
+      },
+      "9": {
+        "-5": {
+          "low": 8388,
+          "high": 10675
+        },
+        "0": {
+          "low": 8388,
+          "high": 10675
+        },
+        "5": {
+          "low": 8388,
+          "high": 10675
+        },
+        "10": {
+          "low": 8402,
+          "high": 10694
+        },
+        "15": {
+          "low": 8430,
+          "high": 10730
+        },
+        "20": {
+          "low": 8430,
+          "high": 10730
+        },
+        "25": {
+          "low": 8430,
+          "high": 10730
+        },
+        "30": {
+          "low": 8430,
+          "high": 10730
+        }
+      },
+      "10": {
+        "-5": {
+          "low": 8434,
+          "high": 10734
+        },
+        "0": {
+          "low": 8434,
+          "high": 10734
+        },
+        "5": {
+          "low": 8434,
+          "high": 10734
+        },
+        "10": {
+          "low": 8449,
+          "high": 10753
+        },
+        "15": {
+          "low": 8474,
+          "high": 10786
+        },
+        "20": {
+          "low": 8474,
+          "high": 10786
+        },
+        "25": {
+          "low": 8474,
+          "high": 10786
+        },
+        "30": {
+          "low": 8474,
+          "high": 10786
+        }
+      },
+      "11": {
+        "-5": {
+          "low": 8159,
+          "high": 10384
+        },
+        "0": {
+          "low": 8159,
+          "high": 10384
+        },
+        "5": {
+          "low": 8159,
+          "high": 10384
+        },
+        "10": {
+          "low": 8174,
+          "high": 10403
+        },
+        "15": {
+          "low": 8202,
+          "high": 10440
+        },
+        "20": {
+          "low": 8202,
+          "high": 10440
+        },
+        "25": {
+          "low": 8202,
+          "high": 10440
+        },
+        "30": {
+          "low": 8202,
+          "high": 10440
+        }
+      },
+      "12": {
+        "-5": {
+          "low": 8187,
+          "high": 10420
+        },
+        "0": {
+          "low": 8187,
+          "high": 10420
+        },
+        "5": {
+          "low": 8187,
+          "high": 10420
+        },
+        "10": {
+          "low": 8201,
+          "high": 10438
+        },
+        "15": {
+          "low": 8230,
+          "high": 10475
+        },
+        "20": {
+          "low": 8230,
+          "high": 10475
+        },
+        "25": {
+          "low": 8230,
+          "high": 10475
+        },
+        "30": {
+          "low": 8230,
+          "high": 10475
+        }
+      }
+    }
+  },
+  "shap_features": {
+    "global": [
+      {
+        "feature": "attendance_lag_1",
+        "importance": 4591.0923
+      },
+      {
+        "feature": "trust_historical_avg",
+        "importance": 1479.2197
+      },
+      {
+        "feature": "attendance_lag_2",
+        "importance": 496.611
+      },
+      {
+        "feature": "month",
+        "importance": 264.5881
+      },
+      {
+        "feature": "trust_size_encoded",
+        "importance": 248.2085
+      },
+      {
+        "feature": "num_school_holiday_weeks",
+        "importance": 170.8714
+      },
+      {
+        "feature": "yoy_change",
+        "importance": 167.6486
+      },
+      {
+        "feature": "is_winter",
+        "importance": 153.8535
+      },
+      {
+        "feature": "month_sin",
+        "importance": 135.1081
+      },
+      {
+        "feature": "flu_rate",
+        "importance": 121.0929
+      }
+    ],
+    "per_trust": []
+  },
+  "anomalies": [
+    {
+      "year": 2022,
+      "month": 4,
+      "actual": 11784,
+      "predicted": 10364,
+      "deviation_pct": 13.7,
+      "flag": "significantly_worse"
+    }
+  ],
+  "cluster": {
+    "cluster_id": 2,
+    "cluster_name": "Large urban hospitals",
+    "avg_attendance": 9187,
+    "avg_breach_rate": 20.1
+  }
+}

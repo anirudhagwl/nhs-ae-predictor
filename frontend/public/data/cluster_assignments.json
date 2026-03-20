@@ -1,0 +1,1161 @@
+{
+  "assignments": {
+    "AAH": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 359,
+      "avg_breach_rate": 0.1
+    },
+    "AJN": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 358,
+      "avg_breach_rate": 0.0
+    },
+    "AXG": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1645,
+      "avg_breach_rate": 1.7
+    },
+    "NDJ": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1817,
+      "avg_breach_rate": 0.0
+    },
+    "NL7": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3871,
+      "avg_breach_rate": 0.0
+    },
+    "NLX": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 7270,
+      "avg_breach_rate": 3.2
+    },
+    "NNJ": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1648,
+      "avg_breach_rate": 0.2
+    },
+    "NR3": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 4484,
+      "avg_breach_rate": 8.4
+    },
+    "R0A": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 35925,
+      "avg_breach_rate": 29.9
+    },
+    "R0B": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 18073,
+      "avg_breach_rate": 23.8
+    },
+    "R0D": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 16063,
+      "avg_breach_rate": 16.4
+    },
+    "R1D": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 2732,
+      "avg_breach_rate": 0.2
+    },
+    "R1F": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 5397,
+      "avg_breach_rate": 23.5
+    },
+    "R1H": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 40299,
+      "avg_breach_rate": 26.2
+    },
+    "R1K": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 26308,
+      "avg_breach_rate": 22.1
+    },
+    "RA2": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 6621,
+      "avg_breach_rate": 28.2
+    },
+    "RA4": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 4795,
+      "avg_breach_rate": 14.5
+    },
+    "RA7": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 16033,
+      "avg_breach_rate": 31.4
+    },
+    "RA9": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 8571,
+      "avg_breach_rate": 30.6
+    },
+    "RAE": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 11956,
+      "avg_breach_rate": 19.7
+    },
+    "RAJ": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 31301,
+      "avg_breach_rate": 26.3
+    },
+    "RAL": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 27219,
+      "avg_breach_rate": 26.1
+    },
+    "RAP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14905,
+      "avg_breach_rate": 29.0
+    },
+    "RAS": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11136,
+      "avg_breach_rate": 26.0
+    },
+    "RAT": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1995,
+      "avg_breach_rate": 2.6
+    },
+    "RAX": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11537,
+      "avg_breach_rate": 24.5
+    },
+    "RBD": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 4516,
+      "avg_breach_rate": 34.1
+    },
+    "RBK": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11502,
+      "avg_breach_rate": 22.6
+    },
+    "RBL": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 9997,
+      "avg_breach_rate": 35.0
+    },
+    "RBN": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 18562,
+      "avg_breach_rate": 28.3
+    },
+    "RBS": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 5366,
+      "avg_breach_rate": 16.5
+    },
+    "RBT": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 8963,
+      "avg_breach_rate": 35.4
+    },
+    "RBZ": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3814,
+      "avg_breach_rate": 18.7
+    },
+    "RC9": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 21423,
+      "avg_breach_rate": 12.3
+    },
+    "RCB": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 17296,
+      "avg_breach_rate": 28.5
+    },
+    "RCD": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 5308,
+      "avg_breach_rate": 23.6
+    },
+    "RCF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 5756,
+      "avg_breach_rate": 34.6
+    },
+    "RCU": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 4564,
+      "avg_breach_rate": 7.1
+    },
+    "RCX": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 6934,
+      "avg_breach_rate": 33.1
+    },
+    "RD1": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7707,
+      "avg_breach_rate": 36.4
+    },
+    "RD3": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 6087,
+      "avg_breach_rate": 0.0
+    },
+    "RD8": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 12301,
+      "avg_breach_rate": 20.0
+    },
+    "RDE": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 23002,
+      "avg_breach_rate": 22.5
+    },
+    "RDR": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 10470,
+      "avg_breach_rate": 1.3
+    },
+    "RDU": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 24413,
+      "avg_breach_rate": 14.3
+    },
+    "RDZ": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 7016,
+      "avg_breach_rate": 13.2
+    },
+    "REF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 16104,
+      "avg_breach_rate": 20.6
+    },
+    "REM": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 24117,
+      "avg_breach_rate": 29.1
+    },
+    "REP": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1191,
+      "avg_breach_rate": 8.7
+    },
+    "RF4": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 25929,
+      "avg_breach_rate": 30.7
+    },
+    "RFF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 8089,
+      "avg_breach_rate": 31.1
+    },
+    "RFR": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7860,
+      "avg_breach_rate": 16.5
+    },
+    "RFS": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 8852,
+      "avg_breach_rate": 25.5
+    },
+    "RGN": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 16399,
+      "avg_breach_rate": 33.5
+    },
+    "RGP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7510,
+      "avg_breach_rate": 29.9
+    },
+    "RGR": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7375,
+      "avg_breach_rate": 14.7
+    },
+    "RGT": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 14426,
+      "avg_breach_rate": 14.7
+    },
+    "RH5": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 17466,
+      "avg_breach_rate": 21.2
+    },
+    "RH8": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 13236,
+      "avg_breach_rate": 30.2
+    },
+    "RHM": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 11762,
+      "avg_breach_rate": 28.5
+    },
+    "RHQ": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 16322,
+      "avg_breach_rate": 25.3
+    },
+    "RHU": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 12350,
+      "avg_breach_rate": 15.9
+    },
+    "RHW": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 13449,
+      "avg_breach_rate": 24.9
+    },
+    "RJ1": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 15685,
+      "avg_breach_rate": 21.2
+    },
+    "RJ2": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 24039,
+      "avg_breach_rate": 27.0
+    },
+    "RJ6": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 16588,
+      "avg_breach_rate": 22.4
+    },
+    "RJ7": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 11392,
+      "avg_breach_rate": 19.6
+    },
+    "RJC": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7322,
+      "avg_breach_rate": 25.5
+    },
+    "RJE": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 20862,
+      "avg_breach_rate": 31.8
+    },
+    "RJL": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 13593,
+      "avg_breach_rate": 32.3
+    },
+    "RJN": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 4080,
+      "avg_breach_rate": 41.9
+    },
+    "RJR": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 6919,
+      "avg_breach_rate": 35.3
+    },
+    "RJZ": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 22337,
+      "avg_breach_rate": 31.0
+    },
+    "RK5": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14461,
+      "avg_breach_rate": 21.8
+    },
+    "RK9": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 12723,
+      "avg_breach_rate": 17.1
+    },
+    "RKB": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 18442,
+      "avg_breach_rate": 26.0
+    },
+    "RKE": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 8582,
+      "avg_breach_rate": 26.4
+    },
+    "RL4": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 18380,
+      "avg_breach_rate": 20.3
+    },
+    "RLQ": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 5962,
+      "avg_breach_rate": 35.7
+    },
+    "RLT": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 7532,
+      "avg_breach_rate": 21.9
+    },
+    "RM1": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 18176,
+      "avg_breach_rate": 24.3
+    },
+    "RM3": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 26128,
+      "avg_breach_rate": 32.2
+    },
+    "RMC": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 10798,
+      "avg_breach_rate": 34.0
+    },
+    "RMP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 10198,
+      "avg_breach_rate": 31.9
+    },
+    "RN3": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9792,
+      "avg_breach_rate": 23.7
+    },
+    "RN5": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11846,
+      "avg_breach_rate": 31.1
+    },
+    "RN7": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 13538,
+      "avg_breach_rate": 20.1
+    },
+    "RNA": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 13527,
+      "avg_breach_rate": 21.8
+    },
+    "RNN": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9844,
+      "avg_breach_rate": 30.2
+    },
+    "RNQ": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11460,
+      "avg_breach_rate": 13.2
+    },
+    "RNS": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11252,
+      "avg_breach_rate": 29.7
+    },
+    "RNU": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3343,
+      "avg_breach_rate": 6.7
+    },
+    "RNZ": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 6000,
+      "avg_breach_rate": 23.2
+    },
+    "RP5": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 16076,
+      "avg_breach_rate": 27.1
+    },
+    "RP6": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 5236,
+      "avg_breach_rate": 1.1
+    },
+    "RPA": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 13370,
+      "avg_breach_rate": 26.4
+    },
+    "RPC": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1208,
+      "avg_breach_rate": 0.5
+    },
+    "RQ3": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 4897,
+      "avg_breach_rate": 17.2
+    },
+    "RQM": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 25102,
+      "avg_breach_rate": 10.1
+    },
+    "RQW": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9289,
+      "avg_breach_rate": 37.0
+    },
+    "RQX": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9852,
+      "avg_breach_rate": 16.0
+    },
+    "RR7": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 8665,
+      "avg_breach_rate": 22.5
+    },
+    "RR8": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 26840,
+      "avg_breach_rate": 25.1
+    },
+    "RRF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 12069,
+      "avg_breach_rate": 26.2
+    },
+    "RRK": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 32753,
+      "avg_breach_rate": 39.4
+    },
+    "RRV": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 11202,
+      "avg_breach_rate": 25.6
+    },
+    "RTD": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 18172,
+      "avg_breach_rate": 20.0
+    },
+    "RTE": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11978,
+      "avg_breach_rate": 36.5
+    },
+    "RTF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 19501,
+      "avg_breach_rate": 8.8
+    },
+    "RTG": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 27308,
+      "avg_breach_rate": 30.4
+    },
+    "RTH": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 14138,
+      "avg_breach_rate": 27.4
+    },
+    "RTK": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9627,
+      "avg_breach_rate": 32.9
+    },
+    "RTP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9948,
+      "avg_breach_rate": 26.6
+    },
+    "RTQ": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 5605,
+      "avg_breach_rate": 0.6
+    },
+    "RTR": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 14542,
+      "avg_breach_rate": 25.5
+    },
+    "RTV": {
+      "cluster_id": 3,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 598,
+      "avg_breach_rate": 0.0
+    },
+    "RTX": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 10806,
+      "avg_breach_rate": 24.5
+    },
+    "RV9": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 848,
+      "avg_breach_rate": 0.4
+    },
+    "RVJ": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 8135,
+      "avg_breach_rate": 33.3
+    },
+    "RVR": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 12429,
+      "avg_breach_rate": 21.9
+    },
+    "RVV": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 22180,
+      "avg_breach_rate": 26.5
+    },
+    "RVW": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14465,
+      "avg_breach_rate": 7.1
+    },
+    "RVY": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 9187,
+      "avg_breach_rate": 20.1
+    },
+    "RW1": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 2106,
+      "avg_breach_rate": 1.6
+    },
+    "RW4": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 9496,
+      "avg_breach_rate": 2.9
+    },
+    "RW6": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 21868,
+      "avg_breach_rate": 22.7
+    },
+    "RWA": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11423,
+      "avg_breach_rate": 41.6
+    },
+    "RWD": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 17969,
+      "avg_breach_rate": 35.2
+    },
+    "RWE": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 21295,
+      "avg_breach_rate": 38.7
+    },
+    "RWF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 18442,
+      "avg_breach_rate": 14.9
+    },
+    "RWG": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14003,
+      "avg_breach_rate": 25.9
+    },
+    "RWH": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14795,
+      "avg_breach_rate": 28.9
+    },
+    "RWJ": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 8588,
+      "avg_breach_rate": 34.7
+    },
+    "RWP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 16939,
+      "avg_breach_rate": 31.2
+    },
+    "RWW": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 9464,
+      "avg_breach_rate": 30.6
+    },
+    "RWX": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1427,
+      "avg_breach_rate": 0.9
+    },
+    "RWY": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 14213,
+      "avg_breach_rate": 23.5
+    },
+    "RX1": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 16874,
+      "avg_breach_rate": 21.4
+    },
+    "RXC": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 10715,
+      "avg_breach_rate": 28.7
+    },
+    "RXF": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 21404,
+      "avg_breach_rate": 14.1
+    },
+    "RXH": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 11912,
+      "avg_breach_rate": 16.1
+    },
+    "RXK": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 21290,
+      "avg_breach_rate": 25.7
+    },
+    "RXL": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 17354,
+      "avg_breach_rate": 20.0
+    },
+    "RXN": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 14511,
+      "avg_breach_rate": 25.3
+    },
+    "RXP": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 16052,
+      "avg_breach_rate": 30.2
+    },
+    "RXQ": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 12834,
+      "avg_breach_rate": 25.4
+    },
+    "RXR": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 18996,
+      "avg_breach_rate": 23.0
+    },
+    "RXW": {
+      "cluster_id": 2,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 11935,
+      "avg_breach_rate": 43.1
+    },
+    "RY2": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3399,
+      "avg_breach_rate": 2.8
+    },
+    "RY4": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 971,
+      "avg_breach_rate": 2.5
+    },
+    "RY5": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 7314,
+      "avg_breach_rate": 2.7
+    },
+    "RY7": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3591,
+      "avg_breach_rate": 3.1
+    },
+    "RY8": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 6251,
+      "avg_breach_rate": 0.7
+    },
+    "RY9": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 3808,
+      "avg_breach_rate": 0.1
+    },
+    "RYF": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 1583,
+      "avg_breach_rate": 4.1
+    },
+    "RYJ": {
+      "cluster_id": 0,
+      "cluster_name": "Large teaching hospitals",
+      "avg_attendance": 21390,
+      "avg_breach_rate": 11.3
+    },
+    "RYR": {
+      "cluster_id": 4,
+      "cluster_name": "Large urban hospitals",
+      "avg_attendance": 25072,
+      "avg_breach_rate": 31.2
+    },
+    "RYX": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 7966,
+      "avg_breach_rate": 1.5
+    },
+    "RYY": {
+      "cluster_id": 1,
+      "cluster_name": "Small community hospitals",
+      "avg_attendance": 7502,
+      "avg_breach_rate": 0.4
+    }
+  },
+  "clusters": {
+    "0": {
+      "name": "Large teaching hospitals",
+      "num_trusts": 36,
+      "avg_attendance": 14143,
+      "avg_breach_rate": 23.6,
+      "trusts": [
+        "R0D",
+        "RA4",
+        "RA7",
+        "RAE",
+        "RBL",
+        "RBS",
+        "RCB",
+        "RDR",
+        "REM",
+        "RFS",
+        "RGT",
+        "RH8",
+        "RHM",
+        "RHQ",
+        "RJ1",
+        "RJ7",
+        "RJE",
+        "RJZ",
+        "RK9",
+        "RKB",
+        "RL4",
+        "RM1",
+        "RP5",
+        "RQ3",
+        "RR7",
+        "RRV",
+        "RTH",
+        "RTR",
+        "RVJ",
+        "RWE",
+        "RWW",
+        "RX1",
+        "RXH",
+        "RXL",
+        "RXN",
+        "RYJ"
+      ]
+    },
+    "1": {
+      "name": "Small community hospitals",
+      "num_trusts": 32,
+      "avg_attendance": 3766,
+      "avg_breach_rate": 3.0,
+      "trusts": [
+        "AAH",
+        "AJN",
+        "AXG",
+        "NDJ",
+        "NL7",
+        "NLX",
+        "NNJ",
+        "NR3",
+        "R1D",
+        "RAT",
+        "RBZ",
+        "RCU",
+        "RD3",
+        "RDZ",
+        "REP",
+        "RNU",
+        "RP6",
+        "RPC",
+        "RTQ",
+        "RV9",
+        "RW1",
+        "RW4",
+        "RWX",
+        "RY2",
+        "RY4",
+        "RY5",
+        "RY7",
+        "RY8",
+        "RY9",
+        "RYF",
+        "RYX",
+        "RYY"
+      ]
+    },
+    "2": {
+      "name": "Large urban hospitals",
+      "num_trusts": 68,
+      "avg_attendance": 11501,
+      "avg_breach_rate": 26.8,
+      "trusts": [
+        "R0B",
+        "R1F",
+        "RA2",
+        "RA9",
+        "RAP",
+        "RAS",
+        "RAX",
+        "RBD",
+        "RBK",
+        "RBT",
+        "RCD",
+        "RCF",
+        "RCX",
+        "RD1",
+        "RD8",
+        "REF",
+        "RFF",
+        "RFR",
+        "RGN",
+        "RGP",
+        "RGR",
+        "RHU",
+        "RHW",
+        "RJ6",
+        "RJC",
+        "RJL",
+        "RJN",
+        "RJR",
+        "RK5",
+        "RKE",
+        "RLQ",
+        "RLT",
+        "RMC",
+        "RMP",
+        "RN3",
+        "RN5",
+        "RN7",
+        "RNA",
+        "RNN",
+        "RNS",
+        "RNZ",
+        "RPA",
+        "RQW",
+        "RQX",
+        "RRF",
+        "RTD",
+        "RTE",
+        "RTF",
+        "RTK",
+        "RTP",
+        "RTX",
+        "RVR",
+        "RVW",
+        "RVY",
+        "RW6",
+        "RWA",
+        "RWD",
+        "RWF",
+        "RWG",
+        "RWH",
+        "RWJ",
+        "RWP",
+        "RWY",
+        "RXC",
+        "RXF",
+        "RXP",
+        "RXQ",
+        "RXW"
+      ]
+    },
+    "3": {
+      "name": "Small community hospitals",
+      "num_trusts": 1,
+      "avg_attendance": 598,
+      "avg_breach_rate": 0.0,
+      "trusts": [
+        "RTV"
+      ]
+    },
+    "4": {
+      "name": "Large urban hospitals",
+      "num_trusts": 22,
+      "avg_attendance": 25137,
+      "avg_breach_rate": 24.7,
+      "trusts": [
+        "R0A",
+        "R1H",
+        "R1K",
+        "RAJ",
+        "RAL",
+        "RBN",
+        "RC9",
+        "RDE",
+        "RDU",
+        "RF4",
+        "RH5",
+        "RJ2",
+        "RM3",
+        "RNQ",
+        "RQM",
+        "RR8",
+        "RRK",
+        "RTG",
+        "RVV",
+        "RXK",
+        "RXR",
+        "RYR"
+      ]
+    }
+  },
+  "best_k": 5,
+  "silhouette_score": 0.312
+}

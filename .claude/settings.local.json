@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm create:*)",
+      "Bash(npm install:*)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\(''data/lookups/trust_locations.json''\\)\\); print\\(len\\(d\\)\\); print\\(list\\(d.keys\\(\\)\\)\\)\")",
+      "Bash(python3 generate_sample_data.py)",
+      "Bash(ls /Users/anirudhagarwal/Desktop/Anirudh/Projects/nhs-ae-predictor/frontend/public/data/*.json)",
+      "Bash(ls /Users/anirudhagarwal/Desktop/Anirudh/Projects/nhs-ae-predictor/frontend/public/data/trusts/*.json)",
+      "Bash(npm run:*)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\(''/Users/anirudhagarwal/Desktop/Anirudh/Projects/nhs-ae-predictor/frontend/public/data/trusts/RQ6.json''\\)\\); print\\(''Keys:'', list\\(d.keys\\(\\)\\)\\); print\\(''Heatmap rows:'', d[''heatmap''][''rows''][:3]\\); print\\(''Heatmap cols:'', d[''heatmap''][''cols''][:3]\\); print\\(''Heatmap values shape:'', len\\(d[''heatmap''][''values'']\\), ''x'', len\\(d[''heatmap''][''values''][0]\\)\\); print\\(''Monthly data count:'', len\\(d[''monthly_data'']\\)\\); print\\(''Predictions grid keys:'', list\\(d[''predictions_grid''].keys\\(\\)\\)\\); print\\(''Predictions values type:'', type\\(d[''predictions_grid''][''values'']\\)\\); print\\(''Scorecard:'', json.dumps\\(d[''scorecard''], indent=2\\)\\)\")",
+      "Bash(python3 -c \":*)",
+      "mcp__Claude_Preview__preview_start",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\(''/Users/anirudhagarwal/Desktop/Anirudh/Projects/nhs-ae-predictor/frontend/public/data/model_evaluation.json''\\)\\); print\\(json.dumps\\(d, indent=2\\)[:500]\\)\")",
+      "Bash(pip3 list:*)",
+      "Bash(pip3 install:*)",
+      "Bash(python3 pipeline/run_pipeline.py --step fetch)",
+      "Bash(python3 pipeline/run_pipeline.py --step features)",
+      "Bash(python3 pipeline/run_pipeline.py --step train)",
+      "Bash(brew install:*)",
+      "Read(//opt/homebrew/bin/**)",
+      "Read(//usr/local/bin/**)",
+      "Bash(/opt/homebrew/bin/brew install:*)",
+      "Bash(python3 pipeline/run_pipeline.py --step evaluate)",
+      "Bash(python3 pipeline/run_pipeline.py --step shap)",
+      "Bash(python3 pipeline/run_pipeline.py --step export)",
+      "Bash(python3 -c \"import json; d=json.load\\(open\\(''data/output/trusts/RQ6.json''\\)\\); print\\(''Keys:'', list\\(d.keys\\(\\)\\)\\); print\\(''trust_name:'', d.get\\(''trust_name''\\)\\); print\\(''scorecard keys:'', list\\(d.get\\(''scorecard'',{}\\).keys\\(\\)\\) if d.get\\(''scorecard''\\) else ''MISSING''\\); print\\(''compliance_trend len:'', len\\(d.get\\(''compliance_trend'',[]\\)\\) if isinstance\\(d.get\\(''compliance_trend''\\), list\\) else ''NOT LIST''\\); print\\(''monthly_data len:'', len\\(d.get\\(''monthly_data'',[]\\)\\) if isinstance\\(d.get\\(''monthly_data''\\), list\\) else ''NOT LIST''\\); print\\(''predictions_grid keys:'', list\\(d.get\\(''predictions_grid'',{}\\).keys\\(\\)\\) if d.get\\(''predictions_grid''\\) else ''MISSING''\\); print\\(''shap_features:'', type\\(d.get\\(''shap_features''\\)\\).__name__\\)\")",
+      "WebSearch",
+      "WebFetch(domain:www.england.nhs.uk)",
+      "WebFetch(domain:digital.nhs.uk)",
+      "Bash(python3 pipeline/fetch_nhs_data.py)",
+      "Bash(python3 pipeline/run_pipeline.py --skip-fetch)",
+      "Bash(python3 -c \"from pipeline.fetch_weather import fetch_and_process; fetch_and_process\\(\\)\")",
+      "Bash(python3 -c \"from pipeline.export_json import export_all; export_all\\(\\)\")",
+      "Bash(cp -r data/output frontend/public/data)",
+      "Bash(python3 -c \"import json,sys; d=json.load\\(sys.stdin\\); print\\(json.dumps\\(d.get\\(''''scripts'''',{}\\), indent=2\\)\\)\")",
+      "Bash(git init:*)",
+      "Bash(git add:*)",
+      "Bash(git commit -m \"Initial commit: NHS A&E Wait Time Predictor:*)"
+    ]
+  }
+}

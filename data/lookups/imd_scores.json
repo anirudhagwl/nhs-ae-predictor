@@ -1,0 +1,727 @@
+{
+  "RQ6": {
+    "imd_score": 42.3,
+    "imd_decile": 1,
+    "local_authority": "Liverpool"
+  },
+  "R0A": {
+    "imd_score": 38.7,
+    "imd_decile": 1,
+    "local_authority": "Manchester"
+  },
+  "RRK": {
+    "imd_score": 36.4,
+    "imd_decile": 1,
+    "local_authority": "Birmingham"
+  },
+  "RJ1": {
+    "imd_score": 18.2,
+    "imd_decile": 4,
+    "local_authority": "Lambeth"
+  },
+  "RYJ": {
+    "imd_score": 19.6,
+    "imd_decile": 4,
+    "local_authority": "Hammersmith and Fulham"
+  },
+  "RAL": {
+    "imd_score": 14.8,
+    "imd_decile": 5,
+    "local_authority": "Barnet"
+  },
+  "RQM": {
+    "imd_score": 13.1,
+    "imd_decile": 6,
+    "local_authority": "Kensington and Chelsea"
+  },
+  "RTD": {
+    "imd_score": 29.5,
+    "imd_decile": 2,
+    "local_authority": "Newcastle upon Tyne"
+  },
+  "RR8": {
+    "imd_score": 27.3,
+    "imd_decile": 2,
+    "local_authority": "Leeds"
+  },
+  "RA7": {
+    "imd_score": 20.4,
+    "imd_decile": 4,
+    "local_authority": "Bristol"
+  },
+  "RBD": {
+    "imd_score": 16.9,
+    "imd_decile": 5,
+    "local_authority": "Dorset"
+  },
+  "RXW": {
+    "imd_score": 24.1,
+    "imd_decile": 3,
+    "local_authority": "Wolverhampton"
+  },
+  "RJE": {
+    "imd_score": 26.8,
+    "imd_decile": 2,
+    "local_authority": "Stoke-on-Trent"
+  },
+  "RX1": {
+    "imd_score": 25.9,
+    "imd_decile": 3,
+    "local_authority": "Nottingham"
+  },
+  "RWE": {
+    "imd_score": 28.6,
+    "imd_decile": 2,
+    "local_authority": "Leicester"
+  },
+  "RKB": {
+    "imd_score": 30.2,
+    "imd_decile": 2,
+    "local_authority": "Coventry"
+  },
+  "RM3": {
+    "imd_score": 11.4,
+    "imd_decile": 7,
+    "local_authority": "Havering"
+  },
+  "RCB": {
+    "imd_score": 22.7,
+    "imd_decile": 3,
+    "local_authority": "York"
+  },
+  "RDE": {
+    "imd_score": 17.3,
+    "imd_decile": 5,
+    "local_authority": "Colchester"
+  },
+  "RAJ": {
+    "imd_score": 15.6,
+    "imd_decile": 5,
+    "local_authority": "Southend-on-Sea"
+  },
+  "RWH": {
+    "imd_score": 12.8,
+    "imd_decile": 6,
+    "local_authority": "East Hertfordshire"
+  },
+  "RLN": {
+    "imd_score": 14.2,
+    "imd_decile": 6,
+    "local_authority": "East Surrey"
+  },
+  "RDU": {
+    "imd_score": 10.7,
+    "imd_decile": 7,
+    "local_authority": "Frimley"
+  },
+  "RHU": {
+    "imd_score": 21.5,
+    "imd_decile": 3,
+    "local_authority": "Portsmouth"
+  },
+  "RHM": {
+    "imd_score": 19.8,
+    "imd_decile": 4,
+    "local_authority": "Southampton"
+  },
+  "RBZ": {
+    "imd_score": 16.1,
+    "imd_decile": 5,
+    "local_authority": "Northern Devon"
+  },
+  "RH8": {
+    "imd_score": 18.4,
+    "imd_decile": 4,
+    "local_authority": "Exeter"
+  },
+  "REF": {
+    "imd_score": 22.3,
+    "imd_decile": 3,
+    "local_authority": "Cornwall"
+  },
+  "RK9": {
+    "imd_score": 23.6,
+    "imd_decile": 3,
+    "local_authority": "Plymouth"
+  },
+  "RA4": {
+    "imd_score": 17.9,
+    "imd_decile": 4,
+    "local_authority": "Medway"
+  },
+  "RVV": {
+    "imd_score": 15.3,
+    "imd_decile": 5,
+    "local_authority": "Kent"
+  },
+  "RWF": {
+    "imd_score": 16.7,
+    "imd_decile": 5,
+    "local_authority": "Maidstone"
+  },
+  "RN7": {
+    "imd_score": 18.9,
+    "imd_decile": 4,
+    "local_authority": "Dartford"
+  },
+  "RPA": {
+    "imd_score": 13.4,
+    "imd_decile": 6,
+    "local_authority": "Medway"
+  },
+  "RTP": {
+    "imd_score": 11.9,
+    "imd_decile": 7,
+    "local_authority": "Surrey"
+  },
+  "RTK": {
+    "imd_score": 12.3,
+    "imd_decile": 6,
+    "local_authority": "Ashford"
+  },
+  "RXH": {
+    "imd_score": 20.6,
+    "imd_decile": 3,
+    "local_authority": "Brighton and Hove"
+  },
+  "RYR": {
+    "imd_score": 17.4,
+    "imd_decile": 5,
+    "local_authority": "Worthing"
+  },
+  "R0D": {
+    "imd_score": 19.1,
+    "imd_decile": 4,
+    "local_authority": "Bristol South"
+  },
+  "RVJ": {
+    "imd_score": 18.7,
+    "imd_decile": 4,
+    "local_authority": "North Bristol"
+  },
+  "RBA": {
+    "imd_score": 15.8,
+    "imd_decile": 5,
+    "local_authority": "Taunton"
+  },
+  "RH5": {
+    "imd_score": 14.6,
+    "imd_decile": 5,
+    "local_authority": "Yeovil"
+  },
+  "RAE": {
+    "imd_score": 28.1,
+    "imd_decile": 2,
+    "local_authority": "Bradford"
+  },
+  "RXF": {
+    "imd_score": 31.4,
+    "imd_decile": 2,
+    "local_authority": "Doncaster"
+  },
+  "RFF": {
+    "imd_score": 32.7,
+    "imd_decile": 1,
+    "local_authority": "Barnsley"
+  },
+  "RFS": {
+    "imd_score": 30.5,
+    "imd_decile": 2,
+    "local_authority": "Rotherham"
+  },
+  "RTG": {
+    "imd_score": 26.4,
+    "imd_decile": 2,
+    "local_authority": "Derby"
+  },
+  "RNQ": {
+    "imd_score": 29.8,
+    "imd_decile": 2,
+    "local_authority": "Kettering"
+  },
+  "RNS": {
+    "imd_score": 27.6,
+    "imd_decile": 2,
+    "local_authority": "Northampton"
+  },
+  "RJF": {
+    "imd_score": 23.2,
+    "imd_decile": 3,
+    "local_authority": "Burton upon Trent"
+  },
+  "RJL": {
+    "imd_score": 24.8,
+    "imd_decile": 3,
+    "local_authority": "Scunthorpe"
+  },
+  "RFR": {
+    "imd_score": 33.9,
+    "imd_decile": 1,
+    "local_authority": "Rotherham"
+  },
+  "RBT": {
+    "imd_score": 35.1,
+    "imd_decile": 1,
+    "local_authority": "Oldham"
+  },
+  "RMP": {
+    "imd_score": 34.6,
+    "imd_decile": 1,
+    "local_authority": "Salford"
+  },
+  "RM2": {
+    "imd_score": 25.3,
+    "imd_decile": 3,
+    "local_authority": "Wigan"
+  },
+  "RWJ": {
+    "imd_score": 36.8,
+    "imd_decile": 1,
+    "local_authority": "Rochdale"
+  },
+  "RBQ": {
+    "imd_score": 22.9,
+    "imd_decile": 3,
+    "local_authority": "Warrington"
+  },
+  "REM": {
+    "imd_score": 29.4,
+    "imd_decile": 2,
+    "local_authority": "St Helens"
+  },
+  "RBL": {
+    "imd_score": 31.7,
+    "imd_decile": 2,
+    "local_authority": "Wirral"
+  },
+  "REN": {
+    "imd_score": 38.2,
+    "imd_decile": 1,
+    "local_authority": "Knowsley"
+  },
+  "RXL": {
+    "imd_score": 33.1,
+    "imd_decile": 1,
+    "local_authority": "Blackpool"
+  },
+  "RXN": {
+    "imd_score": 29.7,
+    "imd_decile": 2,
+    "local_authority": "Preston"
+  },
+  "RWR": {
+    "imd_score": 23.5,
+    "imd_decile": 3,
+    "local_authority": "Blackburn"
+  },
+  "RCU": {
+    "imd_score": 24.3,
+    "imd_decile": 3,
+    "local_authority": "South Tyneside"
+  },
+  "RE9": {
+    "imd_score": 30.6,
+    "imd_decile": 2,
+    "local_authority": "Sunderland"
+  },
+  "RTF": {
+    "imd_score": 28.9,
+    "imd_decile": 2,
+    "local_authority": "Gateshead"
+  },
+  "RNL": {
+    "imd_score": 31.2,
+    "imd_decile": 2,
+    "local_authority": "North Tyneside"
+  },
+  "RR7": {
+    "imd_score": 27.8,
+    "imd_decile": 2,
+    "local_authority": "Middlesbrough"
+  },
+  "RTR": {
+    "imd_score": 29.1,
+    "imd_decile": 2,
+    "local_authority": "Stockton-on-Tees"
+  },
+  "RCC": {
+    "imd_score": 25.7,
+    "imd_decile": 3,
+    "local_authority": "Carlisle"
+  },
+  "RXP": {
+    "imd_score": 26.2,
+    "imd_decile": 3,
+    "local_authority": "County Durham"
+  },
+  "RAX": {
+    "imd_score": 9.8,
+    "imd_decile": 8,
+    "local_authority": "Kingston upon Thames"
+  },
+  "RVR": {
+    "imd_score": 10.4,
+    "imd_decile": 7,
+    "local_authority": "Epsom and Ewell"
+  },
+  "RGT": {
+    "imd_score": 16.5,
+    "imd_decile": 5,
+    "local_authority": "Cambridge"
+  },
+  "RGQ": {
+    "imd_score": 14.9,
+    "imd_decile": 5,
+    "local_authority": "Ipswich"
+  },
+  "RGR": {
+    "imd_score": 19.3,
+    "imd_decile": 4,
+    "local_authority": "West Suffolk"
+  },
+  "RGP": {
+    "imd_score": 18.6,
+    "imd_decile": 4,
+    "local_authority": "King's Lynn"
+  },
+  "RM1": {
+    "imd_score": 22.4,
+    "imd_decile": 3,
+    "local_authority": "Norfolk"
+  },
+  "RJN": {
+    "imd_score": 13.7,
+    "imd_decile": 6,
+    "local_authority": "East Cheshire"
+  },
+  "RBK": {
+    "imd_score": 20.1,
+    "imd_decile": 4,
+    "local_authority": "Walsall"
+  },
+  "RNA": {
+    "imd_score": 33.6,
+    "imd_decile": 1,
+    "local_authority": "Dudley"
+  },
+  "RWP": {
+    "imd_score": 21.8,
+    "imd_decile": 3,
+    "local_authority": "Worcester"
+  },
+  "RXK": {
+    "imd_score": 24.5,
+    "imd_decile": 3,
+    "local_authority": "Sandwell"
+  },
+  "RKE": {
+    "imd_score": 22.6,
+    "imd_decile": 3,
+    "local_authority": "Whittington"
+  },
+  "RRP": {
+    "imd_score": 17.8,
+    "imd_decile": 4,
+    "local_authority": "Nottingham South"
+  },
+  "RHW": {
+    "imd_score": 15.2,
+    "imd_decile": 5,
+    "local_authority": "Reading"
+  },
+  "RHR": {
+    "imd_score": 12.1,
+    "imd_decile": 7,
+    "local_authority": "Wokingham"
+  },
+  "RHQ": {
+    "imd_score": 26.9,
+    "imd_decile": 2,
+    "local_authority": "Sheffield"
+  },
+  "RWY": {
+    "imd_score": 25.1,
+    "imd_decile": 3,
+    "local_authority": "Calderdale"
+  },
+  "RXR": {
+    "imd_score": 22.0,
+    "imd_decile": 3,
+    "local_authority": "Basildon"
+  },
+  "RAP": {
+    "imd_score": 19.7,
+    "imd_decile": 4,
+    "local_authority": "Oxford"
+  },
+  "RTH": {
+    "imd_score": 17.5,
+    "imd_decile": 5,
+    "local_authority": "Oxford"
+  },
+  "RNU": {
+    "imd_score": 11.6,
+    "imd_decile": 7,
+    "local_authority": "Buckinghamshire"
+  },
+  "RXQ": {
+    "imd_score": 10.9,
+    "imd_decile": 7,
+    "local_authority": "Buckinghamshire"
+  },
+  "RWG": {
+    "imd_score": 12.6,
+    "imd_decile": 6,
+    "local_authority": "West Hertfordshire"
+  },
+  "RLQ": {
+    "imd_score": 11.3,
+    "imd_decile": 7,
+    "local_authority": "Ealing"
+  },
+  "RYK": {
+    "imd_score": 18.3,
+    "imd_decile": 4,
+    "local_authority": "Worcestershire"
+  },
+  "RNA5": {
+    "imd_score": 32.1,
+    "imd_decile": 1,
+    "local_authority": "Walsall"
+  },
+  "RP5": {
+    "imd_score": 40.6,
+    "imd_decile": 1,
+    "local_authority": "Tower Hamlets"
+  },
+  "RQX": {
+    "imd_score": 37.2,
+    "imd_decile": 1,
+    "local_authority": "Hackney"
+  },
+  "RNZ": {
+    "imd_score": 35.4,
+    "imd_decile": 1,
+    "local_authority": "Southwark"
+  },
+  "RGC": {
+    "imd_score": 39.1,
+    "imd_decile": 1,
+    "local_authority": "Newham"
+  },
+  "RF4": {
+    "imd_score": 36.5,
+    "imd_decile": 1,
+    "local_authority": "Barking and Dagenham"
+  },
+  "RQW": {
+    "imd_score": 34.8,
+    "imd_decile": 1,
+    "local_authority": "Haringey"
+  },
+  "RYX": {
+    "imd_score": 27.4,
+    "imd_decile": 2,
+    "local_authority": "Lewisham"
+  },
+  "RJ2": {
+    "imd_score": 25.6,
+    "imd_decile": 3,
+    "local_authority": "Croydon"
+  },
+  "RJZ": {
+    "imd_score": 24.7,
+    "imd_decile": 3,
+    "local_authority": "Bromley"
+  },
+  "RAS": {
+    "imd_score": 13.9,
+    "imd_decile": 6,
+    "local_authority": "Harrow"
+  },
+  "RAL0": {
+    "imd_score": 14.5,
+    "imd_decile": 5,
+    "local_authority": "Barnet"
+  },
+  "RFW": {
+    "imd_score": 16.2,
+    "imd_decile": 5,
+    "local_authority": "Ealing"
+  },
+  "RR1": {
+    "imd_score": 21.3,
+    "imd_decile": 3,
+    "local_authority": "Luton"
+  },
+  "RLT": {
+    "imd_score": 28.4,
+    "imd_decile": 2,
+    "local_authority": "Walsall"
+  },
+  "RXC": {
+    "imd_score": 23.9,
+    "imd_decile": 3,
+    "local_authority": "Hastings"
+  },
+  "RTX": {
+    "imd_score": 22.8,
+    "imd_decile": 3,
+    "local_authority": "Eastbourne"
+  },
+  "RYN": {
+    "imd_score": 20.9,
+    "imd_decile": 3,
+    "local_authority": "Chichester"
+  },
+  "RDZ": {
+    "imd_score": 16.4,
+    "imd_decile": 5,
+    "local_authority": "Bournemouth"
+  },
+  "RDR": {
+    "imd_score": 14.3,
+    "imd_decile": 6,
+    "local_authority": "Poole"
+  },
+  "RBN": {
+    "imd_score": 21.1,
+    "imd_decile": 3,
+    "local_authority": "Bath"
+  },
+  "REP": {
+    "imd_score": 26.7,
+    "imd_decile": 2,
+    "local_authority": "Hull"
+  },
+  "RWA": {
+    "imd_score": 28.3,
+    "imd_decile": 2,
+    "local_authority": "Hull East"
+  },
+  "RLR": {
+    "imd_score": 20.7,
+    "imd_decile": 3,
+    "local_authority": "Lincoln"
+  },
+  "RJC": {
+    "imd_score": 18.1,
+    "imd_decile": 4,
+    "local_authority": "Weston-super-Mare"
+  },
+  "RC9": {
+    "imd_score": 15.4,
+    "imd_decile": 5,
+    "local_authority": "Gloucester"
+  },
+  "RTE": {
+    "imd_score": 12.9,
+    "imd_decile": 6,
+    "local_authority": "Cheltenham"
+  },
+  "R1F": {
+    "imd_score": 24.6,
+    "imd_decile": 3,
+    "local_authority": "Isle of Wight"
+  },
+  "RNH": {
+    "imd_score": 20.3,
+    "imd_decile": 4,
+    "local_authority": "Worcester"
+  },
+  "RWK": {
+    "imd_score": 22.5,
+    "imd_decile": 3,
+    "local_authority": "Warwick"
+  },
+  "RCF": {
+    "imd_score": 25.8,
+    "imd_decile": 3,
+    "local_authority": "Huddersfield"
+  },
+  "RCD": {
+    "imd_score": 27.2,
+    "imd_decile": 2,
+    "local_authority": "Harrogate"
+  },
+  "RCX": {
+    "imd_score": 23.4,
+    "imd_decile": 3,
+    "local_authority": "York"
+  },
+  "RR0": {
+    "imd_score": 37.8,
+    "imd_decile": 1,
+    "local_authority": "Birmingham City"
+  },
+  "RXG": {
+    "imd_score": 34.2,
+    "imd_decile": 1,
+    "local_authority": "Wolverhampton"
+  },
+  "RWC": {
+    "imd_score": 13.6,
+    "imd_decile": 6,
+    "local_authority": "Coventry"
+  },
+  "RP6": {
+    "imd_score": 16.8,
+    "imd_decile": 5,
+    "local_authority": "Westminster"
+  },
+  "RJ6": {
+    "imd_score": 15.7,
+    "imd_decile": 5,
+    "local_authority": "Croydon"
+  },
+  "RC1": {
+    "imd_score": 9.4,
+    "imd_decile": 8,
+    "local_authority": "Guildford"
+  },
+  "RPC": {
+    "imd_score": 10.2,
+    "imd_decile": 8,
+    "local_authority": "Portsmouth South"
+  },
+  "RK5": {
+    "imd_score": 8.9,
+    "imd_decile": 8,
+    "local_authority": "Woking"
+  },
+  "RFU": {
+    "imd_score": 9.1,
+    "imd_decile": 8,
+    "local_authority": "Farnham"
+  },
+  "RQY": {
+    "imd_score": 7.8,
+    "imd_decile": 9,
+    "local_authority": "Horsham"
+  },
+  "RWX": {
+    "imd_score": 8.3,
+    "imd_decile": 9,
+    "local_authority": "Tunbridge Wells"
+  },
+  "RGN": {
+    "imd_score": 6.9,
+    "imd_decile": 9,
+    "local_authority": "South Buckinghamshire"
+  },
+  "RQR": {
+    "imd_score": 7.4,
+    "imd_decile": 9,
+    "local_authority": "Richmond upon Thames"
+  },
+  "RFX": {
+    "imd_score": 5.8,
+    "imd_decile": 10,
+    "local_authority": "Windsor and Maidenhead"
+  },
+  "RTA": {
+    "imd_score": 6.3,
+    "imd_decile": 10,
+    "local_authority": "Chiltern"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "feature_importance": [
+    {
+      "feature": "attendance_lag_1",
+      "importance": 4591.0923
+    },
+    {
+      "feature": "trust_historical_avg",
+      "importance": 1479.2197
+    },
+    {
+      "feature": "attendance_lag_2",
+      "importance": 496.611
+    },
+    {
+      "feature": "month",
+      "importance": 264.5881
+    },
+    {
+      "feature": "trust_size_encoded",
+      "importance": 248.2085
+    },
+    {
+      "feature": "num_school_holiday_weeks",
+      "importance": 170.8714
+    },
+    {
+      "feature": "yoy_change",
+      "importance": 167.6486
+    },
+    {
+      "feature": "is_winter",
+      "importance": 153.8535
+    },
+    {
+      "feature": "month_sin",
+      "importance": 135.1081
+    },
+    {
+      "feature": "flu_rate",
+      "importance": 121.0929
+    },
+    {
+      "feature": "year_numeric",
+      "importance": 104.006
+    },
+    {
+      "feature": "attendance_lag_3",
+      "importance": 39.0831
+    },
+    {
+      "feature": "avg_temp_c",
+      "importance": 19.1553
+    },
+    {
+      "feature": "month_cos",
+      "importance": 18.9137
+    },
+    {
+      "feature": "region_London",
+      "importance": 17.7122
+    },
+    {
+      "feature": "num_bank_holidays",
+      "importance": 13.6035
+    },
+    {
+      "feature": "breach_rate_lag_1",
+      "importance": 5.2976
+    },
+    {
+      "feature": "days_below_5c",
+      "importance": 2.9005
+    },
+    {
+      "feature": "imd_score",
+      "importance": 2.4987
+    },
+    {
+      "feature": "flu_intensity_encoded",
+      "importance": 1.7264
+    },
+    {
+      "feature": "quarter",
+      "importance": 1.6244
+    },
+    {
+      "feature": "total_precip_mm",
+      "importance": 1.4348
+    },
+    {
+      "feature": "avg_humidity_pct",
+      "importance": 1.2839
+    },
+    {
+      "feature": "is_flu_season",
+      "importance": 1.1278
+    },
+    {
+      "feature": "region_South West",
+      "importance": 0.4523
+    },
+    {
+      "feature": "is_school_holiday",
+      "importance": 0.3179
+    },
+    {
+      "feature": "region_North West",
+      "importance": 0.28
+    },
+    {
+      "feature": "has_new_year",
+      "importance": 0.2712
+    },
+    {
+      "feature": "is_teaching_hospital",
+      "importance": 0.1635
+    },
+    {
+      "feature": "region_Midlands",
+      "importance": 0.0914
+    },
+    {
+      "feature": "has_christmas",
+      "importance": 0.0323
+    },
+    {
+      "feature": "region_East of England",
+      "importance": 0.0
+    },
+    {
+      "feature": "region_North East and Yorkshire",
+      "importance": 0.0
+    },
+    {
+      "feature": "region_South East",
+      "importance": 0.0
+    }
+  ],
+  "base_value": 12584.0537109375,
+  "model_name": "xgboost",
+  "num_samples": 2217
+}

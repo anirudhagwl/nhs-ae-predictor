@@ -1,0 +1,570 @@
+[
+  {
+    "year": 2020,
+    "month": 4,
+    "avg_attendances": 5611,
+    "avg_breach_rate": 7.1,
+    "avg_emergency_admissions": 1616,
+    "avg_ambulance_arrivals": 1402
+  },
+  {
+    "year": 2020,
+    "month": 5,
+    "avg_attendances": 7787,
+    "avg_breach_rate": 5.0,
+    "avg_emergency_admissions": 1987,
+    "avg_ambulance_arrivals": 1946
+  },
+  {
+    "year": 2020,
+    "month": 6,
+    "avg_attendances": 8765,
+    "avg_breach_rate": 5.6,
+    "avg_emergency_admissions": 2156,
+    "avg_ambulance_arrivals": 2191
+  },
+  {
+    "year": 2020,
+    "month": 7,
+    "avg_attendances": 9714,
+    "avg_breach_rate": 6.2,
+    "avg_emergency_admissions": 2293,
+    "avg_ambulance_arrivals": 2428
+  },
+  {
+    "year": 2020,
+    "month": 8,
+    "avg_attendances": 10374,
+    "avg_breach_rate": 8.6,
+    "avg_emergency_admissions": 2336,
+    "avg_ambulance_arrivals": 2593
+  },
+  {
+    "year": 2020,
+    "month": 9,
+    "avg_attendances": 10199,
+    "avg_breach_rate": 10.1,
+    "avg_emergency_admissions": 2337,
+    "avg_ambulance_arrivals": 2549
+  },
+  {
+    "year": 2020,
+    "month": 10,
+    "avg_attendances": 9689,
+    "avg_breach_rate": 12.1,
+    "avg_emergency_admissions": 2362,
+    "avg_ambulance_arrivals": 2422
+  },
+  {
+    "year": 2020,
+    "month": 11,
+    "avg_attendances": 8910,
+    "avg_breach_rate": 12.6,
+    "avg_emergency_admissions": 2198,
+    "avg_ambulance_arrivals": 2227
+  },
+  {
+    "year": 2020,
+    "month": 12,
+    "avg_attendances": 8779,
+    "avg_breach_rate": 15.4,
+    "avg_emergency_admissions": 2248,
+    "avg_ambulance_arrivals": 2194
+  },
+  {
+    "year": 2021,
+    "month": 1,
+    "avg_attendances": 7737,
+    "avg_breach_rate": 16.6,
+    "avg_emergency_admissions": 2195,
+    "avg_ambulance_arrivals": 1934
+  },
+  {
+    "year": 2021,
+    "month": 2,
+    "avg_attendances": 7530,
+    "avg_breach_rate": 12.6,
+    "avg_emergency_admissions": 2035,
+    "avg_ambulance_arrivals": 1882
+  },
+  {
+    "year": 2021,
+    "month": 3,
+    "avg_attendances": 9921,
+    "avg_breach_rate": 10.9,
+    "avg_emergency_admissions": 2403,
+    "avg_ambulance_arrivals": 2480
+  },
+  {
+    "year": 2021,
+    "month": 4,
+    "avg_attendances": 11008,
+    "avg_breach_rate": 11.7,
+    "avg_emergency_admissions": 2481,
+    "avg_ambulance_arrivals": 2752
+  },
+  {
+    "year": 2021,
+    "month": 5,
+    "avg_attendances": 12189,
+    "avg_breach_rate": 13.1,
+    "avg_emergency_admissions": 2647,
+    "avg_ambulance_arrivals": 3047
+  },
+  {
+    "year": 2021,
+    "month": 6,
+    "avg_attendances": 12837,
+    "avg_breach_rate": 15.1,
+    "avg_emergency_admissions": 2597,
+    "avg_ambulance_arrivals": 3209
+  },
+  {
+    "year": 2021,
+    "month": 7,
+    "avg_attendances": 12874,
+    "avg_breach_rate": 18.3,
+    "avg_emergency_admissions": 2603,
+    "avg_ambulance_arrivals": 3218
+  },
+  {
+    "year": 2021,
+    "month": 8,
+    "avg_attendances": 12195,
+    "avg_breach_rate": 18.9,
+    "avg_emergency_admissions": 2489,
+    "avg_ambulance_arrivals": 3048
+  },
+  {
+    "year": 2021,
+    "month": 9,
+    "avg_attendances": 12797,
+    "avg_breach_rate": 20.4,
+    "avg_emergency_admissions": 2470,
+    "avg_ambulance_arrivals": 3199
+  },
+  {
+    "year": 2021,
+    "month": 10,
+    "avg_attendances": 12987,
+    "avg_breach_rate": 21.5,
+    "avg_emergency_admissions": 2535,
+    "avg_ambulance_arrivals": 3246
+  },
+  {
+    "year": 2021,
+    "month": 11,
+    "avg_attendances": 12194,
+    "avg_breach_rate": 21.3,
+    "avg_emergency_admissions": 2443,
+    "avg_ambulance_arrivals": 3048
+  },
+  {
+    "year": 2021,
+    "month": 12,
+    "avg_attendances": 11227,
+    "avg_breach_rate": 21.8,
+    "avg_emergency_admissions": 2421,
+    "avg_ambulance_arrivals": 2806
+  },
+  {
+    "year": 2022,
+    "month": 1,
+    "avg_attendances": 11230,
+    "avg_breach_rate": 20.9,
+    "avg_emergency_admissions": 2339,
+    "avg_ambulance_arrivals": 2807
+  },
+  {
+    "year": 2022,
+    "month": 2,
+    "avg_attendances": 10944,
+    "avg_breach_rate": 21.9,
+    "avg_emergency_admissions": 2181,
+    "avg_ambulance_arrivals": 2736
+  },
+  {
+    "year": 2022,
+    "month": 3,
+    "avg_attendances": 13065,
+    "avg_breach_rate": 23.4,
+    "avg_emergency_admissions": 2440,
+    "avg_ambulance_arrivals": 3266
+  },
+  {
+    "year": 2022,
+    "month": 4,
+    "avg_attendances": 12300,
+    "avg_breach_rate": 23.3,
+    "avg_emergency_admissions": 2330,
+    "avg_ambulance_arrivals": 3075
+  },
+  {
+    "year": 2022,
+    "month": 5,
+    "avg_attendances": 13475,
+    "avg_breach_rate": 22.5,
+    "avg_emergency_admissions": 2476,
+    "avg_ambulance_arrivals": 3368
+  },
+  {
+    "year": 2022,
+    "month": 6,
+    "avg_attendances": 13221,
+    "avg_breach_rate": 23.3,
+    "avg_emergency_admissions": 2405,
+    "avg_ambulance_arrivals": 3305
+  },
+  {
+    "year": 2022,
+    "month": 7,
+    "avg_attendances": 13159,
+    "avg_breach_rate": 24.3,
+    "avg_emergency_admissions": 2374,
+    "avg_ambulance_arrivals": 3289
+  },
+  {
+    "year": 2022,
+    "month": 8,
+    "avg_attendances": 12388,
+    "avg_breach_rate": 23.8,
+    "avg_emergency_admissions": 2346,
+    "avg_ambulance_arrivals": 3097
+  },
+  {
+    "year": 2022,
+    "month": 9,
+    "avg_attendances": 12258,
+    "avg_breach_rate": 24.2,
+    "avg_emergency_admissions": 2336,
+    "avg_ambulance_arrivals": 3064
+  },
+  {
+    "year": 2022,
+    "month": 10,
+    "avg_attendances": 13228,
+    "avg_breach_rate": 25.5,
+    "avg_emergency_admissions": 2408,
+    "avg_ambulance_arrivals": 3307
+  },
+  {
+    "year": 2022,
+    "month": 11,
+    "avg_attendances": 13171,
+    "avg_breach_rate": 26.0,
+    "avg_emergency_admissions": 2422,
+    "avg_ambulance_arrivals": 3292
+  },
+  {
+    "year": 2022,
+    "month": 12,
+    "avg_attendances": 13829,
+    "avg_breach_rate": 29.8,
+    "avg_emergency_admissions": 2481,
+    "avg_ambulance_arrivals": 3457
+  },
+  {
+    "year": 2023,
+    "month": 1,
+    "avg_attendances": 11809,
+    "avg_breach_rate": 23.4,
+    "avg_emergency_admissions": 2391,
+    "avg_ambulance_arrivals": 2952
+  },
+  {
+    "year": 2023,
+    "month": 2,
+    "avg_attendances": 11507,
+    "avg_breach_rate": 24.2,
+    "avg_emergency_admissions": 2230,
+    "avg_ambulance_arrivals": 2876
+  },
+  {
+    "year": 2023,
+    "month": 3,
+    "avg_attendances": 13052,
+    "avg_breach_rate": 24.1,
+    "avg_emergency_admissions": 2504,
+    "avg_ambulance_arrivals": 3263
+  },
+  {
+    "year": 2023,
+    "month": 4,
+    "avg_attendances": 12292,
+    "avg_breach_rate": 21.5,
+    "avg_emergency_admissions": 2401,
+    "avg_ambulance_arrivals": 3073
+  },
+  {
+    "year": 2023,
+    "month": 5,
+    "avg_attendances": 13602,
+    "avg_breach_rate": 22.1,
+    "avg_emergency_admissions": 2563,
+    "avg_ambulance_arrivals": 3400
+  },
+  {
+    "year": 2023,
+    "month": 6,
+    "avg_attendances": 13517,
+    "avg_breach_rate": 25.1,
+    "avg_emergency_admissions": 2521,
+    "avg_ambulance_arrivals": 3379
+  },
+  {
+    "year": 2023,
+    "month": 7,
+    "avg_attendances": 13441,
+    "avg_breach_rate": 24.5,
+    "avg_emergency_admissions": 2601,
+    "avg_ambulance_arrivals": 3360
+  },
+  {
+    "year": 2023,
+    "month": 8,
+    "avg_attendances": 12895,
+    "avg_breach_rate": 25.4,
+    "avg_emergency_admissions": 2554,
+    "avg_ambulance_arrivals": 3223
+  },
+  {
+    "year": 2023,
+    "month": 9,
+    "avg_attendances": 13287,
+    "avg_breach_rate": 26.8,
+    "avg_emergency_admissions": 2547,
+    "avg_ambulance_arrivals": 3321
+  },
+  {
+    "year": 2023,
+    "month": 10,
+    "avg_attendances": 13603,
+    "avg_breach_rate": 28.3,
+    "avg_emergency_admissions": 2669,
+    "avg_ambulance_arrivals": 3400
+  },
+  {
+    "year": 2023,
+    "month": 11,
+    "avg_attendances": 13332,
+    "avg_breach_rate": 28.7,
+    "avg_emergency_admissions": 2655,
+    "avg_ambulance_arrivals": 3333
+  },
+  {
+    "year": 2023,
+    "month": 12,
+    "avg_attendances": 13411,
+    "avg_breach_rate": 29.1,
+    "avg_emergency_admissions": 2721,
+    "avg_ambulance_arrivals": 3352
+  },
+  {
+    "year": 2024,
+    "month": 1,
+    "avg_attendances": 13700,
+    "avg_breach_rate": 28.4,
+    "avg_emergency_admissions": 2697,
+    "avg_ambulance_arrivals": 3425
+  },
+  {
+    "year": 2024,
+    "month": 2,
+    "avg_attendances": 13295,
+    "avg_breach_rate": 27.5,
+    "avg_emergency_admissions": 2557,
+    "avg_ambulance_arrivals": 3323
+  },
+  {
+    "year": 2024,
+    "month": 3,
+    "avg_attendances": 14743,
+    "avg_breach_rate": 24.5,
+    "avg_emergency_admissions": 2829,
+    "avg_ambulance_arrivals": 3685
+  },
+  {
+    "year": 2024,
+    "month": 4,
+    "avg_attendances": 13939,
+    "avg_breach_rate": 24.1,
+    "avg_emergency_admissions": 2682,
+    "avg_ambulance_arrivals": 3485
+  },
+  {
+    "year": 2024,
+    "month": 5,
+    "avg_attendances": 15038,
+    "avg_breach_rate": 24.7,
+    "avg_emergency_admissions": 2790,
+    "avg_ambulance_arrivals": 3759
+  },
+  {
+    "year": 2024,
+    "month": 6,
+    "avg_attendances": 14302,
+    "avg_breach_rate": 24.1,
+    "avg_emergency_admissions": 2669,
+    "avg_ambulance_arrivals": 3575
+  },
+  {
+    "year": 2024,
+    "month": 7,
+    "avg_attendances": 14523,
+    "avg_breach_rate": 23.4,
+    "avg_emergency_admissions": 2732,
+    "avg_ambulance_arrivals": 3630
+  },
+  {
+    "year": 2024,
+    "month": 8,
+    "avg_attendances": 13440,
+    "avg_breach_rate": 22.4,
+    "avg_emergency_admissions": 2630,
+    "avg_ambulance_arrivals": 3360
+  },
+  {
+    "year": 2024,
+    "month": 9,
+    "avg_attendances": 13833,
+    "avg_breach_rate": 24.4,
+    "avg_emergency_admissions": 2649,
+    "avg_ambulance_arrivals": 3458
+  },
+  {
+    "year": 2024,
+    "month": 10,
+    "avg_attendances": 14706,
+    "avg_breach_rate": 25.7,
+    "avg_emergency_admissions": 2800,
+    "avg_ambulance_arrivals": 3676
+  },
+  {
+    "year": 2024,
+    "month": 11,
+    "avg_attendances": 14407,
+    "avg_breach_rate": 26.4,
+    "avg_emergency_admissions": 2746,
+    "avg_ambulance_arrivals": 3601
+  },
+  {
+    "year": 2024,
+    "month": 12,
+    "avg_attendances": 14554,
+    "avg_breach_rate": 27.8,
+    "avg_emergency_admissions": 2768,
+    "avg_ambulance_arrivals": 3638
+  },
+  {
+    "year": 2025,
+    "month": 1,
+    "avg_attendances": 13736,
+    "avg_breach_rate": 25.8,
+    "avg_emergency_admissions": 2697,
+    "avg_ambulance_arrivals": 3434
+  },
+  {
+    "year": 2025,
+    "month": 2,
+    "avg_attendances": 12939,
+    "avg_breach_rate": 25.3,
+    "avg_emergency_admissions": 2442,
+    "avg_ambulance_arrivals": 3234
+  },
+  {
+    "year": 2025,
+    "month": 3,
+    "avg_attendances": 14912,
+    "avg_breach_rate": 23.9,
+    "avg_emergency_admissions": 2741,
+    "avg_ambulance_arrivals": 3728
+  },
+  {
+    "year": 2025,
+    "month": 4,
+    "avg_attendances": 14323,
+    "avg_breach_rate": 24.0,
+    "avg_emergency_admissions": 2649,
+    "avg_ambulance_arrivals": 3580
+  },
+  {
+    "year": 2025,
+    "month": 5,
+    "avg_attendances": 14944,
+    "avg_breach_rate": 23.6,
+    "avg_emergency_admissions": 2733,
+    "avg_ambulance_arrivals": 3736
+  },
+  {
+    "year": 2025,
+    "month": 6,
+    "avg_attendances": 14680,
+    "avg_breach_rate": 23.4,
+    "avg_emergency_admissions": 2683,
+    "avg_ambulance_arrivals": 3670
+  },
+  {
+    "year": 2025,
+    "month": 7,
+    "avg_attendances": 15024,
+    "avg_breach_rate": 22.7,
+    "avg_emergency_admissions": 2800,
+    "avg_ambulance_arrivals": 3756
+  },
+  {
+    "year": 2025,
+    "month": 8,
+    "avg_attendances": 14124,
+    "avg_breach_rate": 22.8,
+    "avg_emergency_admissions": 2674,
+    "avg_ambulance_arrivals": 3531
+  },
+  {
+    "year": 2025,
+    "month": 9,
+    "avg_attendances": 14409,
+    "avg_breach_rate": 23.6,
+    "avg_emergency_admissions": 2678,
+    "avg_ambulance_arrivals": 3602
+  },
+  {
+    "year": 2025,
+    "month": 10,
+    "avg_attendances": 15306,
+    "avg_breach_rate": 24.6,
+    "avg_emergency_admissions": 2796,
+    "avg_ambulance_arrivals": 3826
+  },
+  {
+    "year": 2025,
+    "month": 11,
+    "avg_attendances": 14837,
+    "avg_breach_rate": 24.3,
+    "avg_emergency_admissions": 2665,
+    "avg_ambulance_arrivals": 3709
+  },
+  {
+    "year": 2025,
+    "month": 12,
+    "avg_attendances": 14684,
+    "avg_breach_rate": 24.7,
+    "avg_emergency_admissions": 2724,
+    "avg_ambulance_arrivals": 3671
+  },
+  {
+    "year": 2026,
+    "month": 1,
+    "avg_attendances": 14675,
+    "avg_breach_rate": 26.1,
+    "avg_emergency_admissions": 2701,
+    "avg_ambulance_arrivals": 3668
+  },
+  {
+    "year": 2026,
+    "month": 2,
+    "avg_attendances": 13389,
+    "avg_breach_rate": 24.6,
+    "avg_emergency_admissions": 2428,
+    "avg_ambulance_arrivals": 3347
+  }
+]

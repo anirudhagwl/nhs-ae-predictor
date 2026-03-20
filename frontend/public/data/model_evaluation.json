@@ -1,0 +1,724 @@
+{
+  "best_model": "xgboost",
+  "models": {
+    "baseline": {
+      "metrics": {
+        "rmse": 1321.28,
+        "mae": 947.63,
+        "r2": 0.9778,
+        "mape": 12.69
+      },
+      "cv_metrics": {
+        "rmse": 2415.9205,
+        "rmse_std": 1030.868,
+        "mae": 2035.7574,
+        "mae_std": 1072.1644,
+        "r2": 0.8867,
+        "r2_std": 0.0918,
+        "mape": 44.2327,
+        "mape_std": 27.0435
+      },
+      "learning_curves": {
+        "train_sizes": [
+          428,
+          673,
+          918,
+          1163,
+          1408,
+          1653,
+          1898,
+          2143
+        ],
+        "train_rmse": [
+          731.946786974182,
+          1991.0225733276857,
+          2465.1192885394175,
+          2492.2178421561157,
+          2364.4531373554955,
+          2310.6552476490792,
+          2253.9748378269114,
+          2138.7521278206036
+        ],
+        "train_rmse_std": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "val_rmse": [
+          2066.606875672655,
+          2032.3606826998723,
+          2026.45476889957,
+          2023.5391104199527,
+          2023.1644373685128,
+          2022.6357409956233,
+          2022.7216454927618,
+          2023.6095305203607
+        ],
+        "val_rmse_std": [
+          52.243335658613034,
+          53.47611967407541,
+          53.19033560844462,
+          53.568625629695774,
+          53.76358370938784,
+          54.1095301334975,
+          54.010516716191155,
+          53.94748478795752
+        ]
+      },
+      "residuals": {
+        "mean": -614.7621140134181,
+        "std": 1169.5537890053915,
+        "skew": 3.0009164381381934
+      },
+      "feature_importance": null,
+      "is_best": false
+    },
+    "random_forest": {
+      "metrics": {
+        "rmse": 990.62,
+        "mae": 600.11,
+        "r2": 0.9875,
+        "mape": 4.88
+      },
+      "cv_metrics": {
+        "rmse": 1810.3476,
+        "rmse_std": 1151.8626,
+        "mae": 1069.2698,
+        "mae_std": 672.2541,
+        "r2": 0.9216,
+        "r2_std": 0.1042,
+        "mape": 10.9576,
+        "mape_std": 7.1503
+      },
+      "learning_curves": {
+        "train_sizes": [
+          428,
+          673,
+          918,
+          1163,
+          1408,
+          1653,
+          1898,
+          2143
+        ],
+        "train_rmse": [
+          460.13054697434706,
+          1232.9302993613883,
+          1505.905343317433,
+          1437.2927357871583,
+          1351.4355935407093,
+          1287.2817916519218,
+          1238.6713160354207,
+          1173.1019127072764
+        ],
+        "train_rmse_std": [
+          0.0,
+          1.3127425272378462e-13,
+          1.3127425272378462e-13,
+          2.2737367544323206e-13,
+          0.0,
+          1.3127425272378462e-13,
+          1.3127425272378462e-13,
+          0.0
+        ],
+        "val_rmse": [
+          9044.530936307114,
+          2316.374419995895,
+          2060.812532879437,
+          1922.877742067966,
+          1808.2549062344503,
+          1696.2971123685284,
+          1546.4771762590142,
+          1516.0253002914922
+        ],
+        "val_rmse_std": [
+          251.92863911051091,
+          158.127397268428,
+          26.368498983258835,
+          8.623281060843283,
+          33.12373401678727,
+          28.30258264274919,
+          52.14584247341781,
+          54.37335013925432
+        ]
+      },
+      "residuals": {
+        "mean": 131.7086711044549,
+        "std": 981.8239205039816,
+        "skew": 3.1411737656226033
+      },
+      "feature_importance": [
+        {
+          "feature": "attendance_lag_1",
+          "importance": 0.2565
+        },
+        {
+          "feature": "trust_historical_avg",
+          "importance": 0.211
+        },
+        {
+          "feature": "attendance_lag_2",
+          "importance": 0.1791
+        },
+        {
+          "feature": "attendance_lag_3",
+          "importance": 0.1365
+        },
+        {
+          "feature": "trust_size_encoded",
+          "importance": 0.1105
+        },
+        {
+          "feature": "breach_rate_lag_1",
+          "importance": 0.0237
+        },
+        {
+          "feature": "imd_score",
+          "importance": 0.0145
+        },
+        {
+          "feature": "is_teaching_hospital",
+          "importance": 0.0107
+        },
+        {
+          "feature": "year_numeric",
+          "importance": 0.0103
+        },
+        {
+          "feature": "yoy_change",
+          "importance": 0.0077
+        },
+        {
+          "feature": "region_London",
+          "importance": 0.0047
+        },
+        {
+          "feature": "flu_rate",
+          "importance": 0.0044
+        },
+        {
+          "feature": "month",
+          "importance": 0.0034
+        },
+        {
+          "feature": "region_South West",
+          "importance": 0.0031
+        },
+        {
+          "feature": "month_sin",
+          "importance": 0.0029
+        },
+        {
+          "feature": "num_school_holiday_weeks",
+          "importance": 0.0028
+        },
+        {
+          "feature": "avg_temp_c",
+          "importance": 0.0026
+        },
+        {
+          "feature": "month_cos",
+          "importance": 0.0017
+        },
+        {
+          "feature": "avg_humidity_pct",
+          "importance": 0.0016
+        },
+        {
+          "feature": "quarter",
+          "importance": 0.0015
+        },
+        {
+          "feature": "num_bank_holidays",
+          "importance": 0.0014
+        },
+        {
+          "feature": "days_below_5c",
+          "importance": 0.0014
+        },
+        {
+          "feature": "total_precip_mm",
+          "importance": 0.0013
+        },
+        {
+          "feature": "region_East of England",
+          "importance": 0.001
+        },
+        {
+          "feature": "region_North West",
+          "importance": 0.0009
+        },
+        {
+          "feature": "region_North East and Yorkshire",
+          "importance": 0.0009
+        },
+        {
+          "feature": "flu_intensity_encoded",
+          "importance": 0.0008
+        },
+        {
+          "feature": "is_winter",
+          "importance": 0.0008
+        },
+        {
+          "feature": "is_school_holiday",
+          "importance": 0.0007
+        },
+        {
+          "feature": "region_Midlands",
+          "importance": 0.0007
+        },
+        {
+          "feature": "is_flu_season",
+          "importance": 0.0004
+        },
+        {
+          "feature": "region_South East",
+          "importance": 0.0003
+        },
+        {
+          "feature": "has_new_year",
+          "importance": 0.0001
+        },
+        {
+          "feature": "has_christmas",
+          "importance": 0.0001
+        }
+      ],
+      "is_best": false
+    },
+    "xgboost": {
+      "metrics": {
+        "rmse": 800.44,
+        "mae": 495.36,
+        "r2": 0.9919,
+        "mape": 4.44
+      },
+      "cv_metrics": {
+        "rmse": 1639.2867,
+        "rmse_std": 1146.217,
+        "mae": 1008.712,
+        "mae_std": 672.3887,
+        "r2": 0.9316,
+        "r2_std": 0.0952,
+        "mape": 9.9049,
+        "mape_std": 6.6793
+      },
+      "learning_curves": {
+        "train_sizes": [
+          428,
+          673,
+          918,
+          1163,
+          1408,
+          1653,
+          1898,
+          2143
+        ],
+        "train_rmse": [
+          144.10870361328125,
+          483.3321533203125,
+          551.6727905273438,
+          562.601806640625,
+          570.0745239257812,
+          593.8865966796875,
+          602.457763671875,
+          577.9486083984375
+        ],
+        "train_rmse_std": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "val_rmse": [
+          8194.082194010416,
+          1996.81982421875,
+          1422.7215576171875,
+          1120.7743733723958,
+          1064.7820841471355,
+          981.1862589518229,
+          863.6591186523438,
+          862.1054890950521
+        ],
+        "val_rmse_std": [
+          298.2191459544493,
+          133.0280682487438,
+          51.93422971519943,
+          57.43866950804497,
+          75.02336342252441,
+          64.02394495254075,
+          46.31490343219461,
+          51.487173475805974
+        ]
+      },
+      "residuals": {
+        "mean": 26.282475576026513,
+        "std": 582.6439005296322,
+        "skew": 4.149498230974086
+      },
+      "feature_importance": [
+        {
+          "feature": "attendance_lag_1",
+          "importance": 0.3896
+        },
+        {
+          "feature": "attendance_lag_2",
+          "importance": 0.3129
+        },
+        {
+          "feature": "trust_historical_avg",
+          "importance": 0.1394
+        },
+        {
+          "feature": "trust_size_encoded",
+          "importance": 0.074
+        },
+        {
+          "feature": "region_London",
+          "importance": 0.0115
+        },
+        {
+          "feature": "year_numeric",
+          "importance": 0.0101
+        },
+        {
+          "feature": "month",
+          "importance": 0.0091
+        },
+        {
+          "feature": "num_school_holiday_weeks",
+          "importance": 0.0071
+        },
+        {
+          "feature": "month_sin",
+          "importance": 0.0061
+        },
+        {
+          "feature": "is_winter",
+          "importance": 0.0044
+        },
+        {
+          "feature": "yoy_change",
+          "importance": 0.0043
+        },
+        {
+          "feature": "quarter",
+          "importance": 0.0041
+        },
+        {
+          "feature": "flu_rate",
+          "importance": 0.0035
+        },
+        {
+          "feature": "avg_temp_c",
+          "importance": 0.0029
+        },
+        {
+          "feature": "has_new_year",
+          "importance": 0.0026
+        },
+        {
+          "feature": "attendance_lag_3",
+          "importance": 0.0023
+        },
+        {
+          "feature": "is_flu_season",
+          "importance": 0.0023
+        },
+        {
+          "feature": "month_cos",
+          "importance": 0.0021
+        },
+        {
+          "feature": "breach_rate_lag_1",
+          "importance": 0.0021
+        },
+        {
+          "feature": "days_below_5c",
+          "importance": 0.0017
+        },
+        {
+          "feature": "imd_score",
+          "importance": 0.0013
+        },
+        {
+          "feature": "num_bank_holidays",
+          "importance": 0.0013
+        },
+        {
+          "feature": "region_North West",
+          "importance": 0.0012
+        },
+        {
+          "feature": "flu_intensity_encoded",
+          "importance": 0.001
+        },
+        {
+          "feature": "total_precip_mm",
+          "importance": 0.0008
+        },
+        {
+          "feature": "avg_humidity_pct",
+          "importance": 0.0007
+        },
+        {
+          "feature": "is_school_holiday",
+          "importance": 0.0004
+        },
+        {
+          "feature": "region_South West",
+          "importance": 0.0004
+        },
+        {
+          "feature": "has_christmas",
+          "importance": 0.0003
+        },
+        {
+          "feature": "region_Midlands",
+          "importance": 0.0002
+        },
+        {
+          "feature": "is_teaching_hospital",
+          "importance": 0.0002
+        },
+        {
+          "feature": "region_East of England",
+          "importance": 0.0
+        },
+        {
+          "feature": "region_North East and Yorkshire",
+          "importance": 0.0
+        },
+        {
+          "feature": "region_South East",
+          "importance": 0.0
+        }
+      ],
+      "is_best": true
+    },
+    "lightgbm": {
+      "metrics": {
+        "rmse": 870.58,
+        "mae": 543.54,
+        "r2": 0.9904,
+        "mape": 4.71
+      },
+      "cv_metrics": {
+        "rmse": 1767.3395,
+        "rmse_std": 1215.43,
+        "mae": 1083.6576,
+        "mae_std": 713.2892,
+        "r2": 0.9214,
+        "r2_std": 0.1082,
+        "mape": 10.6565,
+        "mape_std": 7.9024
+      },
+      "learning_curves": {
+        "train_sizes": [
+          428,
+          673,
+          918,
+          1163,
+          1408,
+          1653,
+          1898,
+          2143
+        ],
+        "train_rmse": [
+          96.51793333469602,
+          389.83188135284354,
+          293.2048655963065,
+          299.4155661893412,
+          319.251361548847,
+          354.9001371801234,
+          365.76207151628387,
+          337.2925982003966
+        ],
+        "train_rmse_std": [
+          1.4210854715202004e-14,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          0.0
+        ],
+        "val_rmse": [
+          8249.061330645962,
+          1899.0329049953473,
+          1420.0256278463394,
+          1141.5232912524598,
+          1094.4889668973274,
+          1017.3524788419636,
+          879.2080053231435,
+          863.9793519331453
+        ],
+        "val_rmse_std": [
+          293.85288489386056,
+          65.51205998985499,
+          51.19338241922999,
+          67.53538593598405,
+          68.80455263798927,
+          68.9192218872542,
+          41.317882424874135,
+          35.10999168357138
+        ]
+      },
+      "residuals": {
+        "mean": -164.87022857067853,
+        "std": 854.8210743266261,
+        "skew": 2.5016703617531193
+      },
+      "feature_importance": [
+        {
+          "feature": "yoy_change",
+          "importance": 773.0
+        },
+        {
+          "feature": "attendance_lag_1",
+          "importance": 734.0
+        },
+        {
+          "feature": "trust_historical_avg",
+          "importance": 697.0
+        },
+        {
+          "feature": "flu_rate",
+          "importance": 523.0
+        },
+        {
+          "feature": "attendance_lag_2",
+          "importance": 511.0
+        },
+        {
+          "feature": "attendance_lag_3",
+          "importance": 379.0
+        },
+        {
+          "feature": "breach_rate_lag_1",
+          "importance": 334.0
+        },
+        {
+          "feature": "total_precip_mm",
+          "importance": 327.0
+        },
+        {
+          "feature": "year_numeric",
+          "importance": 314.0
+        },
+        {
+          "feature": "num_school_holiday_weeks",
+          "importance": 298.0
+        },
+        {
+          "feature": "imd_score",
+          "importance": 291.0
+        },
+        {
+          "feature": "month",
+          "importance": 289.0
+        },
+        {
+          "feature": "avg_humidity_pct",
+          "importance": 275.0
+        },
+        {
+          "feature": "avg_temp_c",
+          "importance": 273.0
+        },
+        {
+          "feature": "month_sin",
+          "importance": 184.0
+        },
+        {
+          "feature": "days_below_5c",
+          "importance": 151.0
+        },
+        {
+          "feature": "is_winter",
+          "importance": 105.0
+        },
+        {
+          "feature": "trust_size_encoded",
+          "importance": 105.0
+        },
+        {
+          "feature": "month_cos",
+          "importance": 95.0
+        },
+        {
+          "feature": "num_bank_holidays",
+          "importance": 67.0
+        },
+        {
+          "feature": "region_London",
+          "importance": 49.0
+        },
+        {
+          "feature": "region_South West",
+          "importance": 42.0
+        },
+        {
+          "feature": "is_teaching_hospital",
+          "importance": 27.0
+        },
+        {
+          "feature": "region_Midlands",
+          "importance": 21.0
+        },
+        {
+          "feature": "is_school_holiday",
+          "importance": 18.0
+        },
+        {
+          "feature": "region_North West",
+          "importance": 16.0
+        },
+        {
+          "feature": "region_East of England",
+          "importance": 13.0
+        },
+        {
+          "feature": "region_South East",
+          "importance": 12.0
+        },
+        {
+          "feature": "quarter",
+          "importance": 11.0
+        },
+        {
+          "feature": "flu_intensity_encoded",
+          "importance": 11.0
+        },
+        {
+          "feature": "region_North East and Yorkshire",
+          "importance": 11.0
+        },
+        {
+          "feature": "has_new_year",
+          "importance": 8.0
+        },
+        {
+          "feature": "is_flu_season",
+          "importance": 0.0
+        },
+        {
+          "feature": "has_christmas",
+          "importance": 0.0
+        }
+      ],
+      "is_best": false
+    }
+  }
+}
